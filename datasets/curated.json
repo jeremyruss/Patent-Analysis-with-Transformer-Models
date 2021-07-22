@@ -1,0 +1,1088 @@
+{
+    "1970": {
+        "patent_date": "1978-04-11",
+        "patent_number": 4084174,
+        "patent_title": "Graduated multiple collector structure for inverted vertical bipolar transistors",
+        "patent_abstract": "A graduated multiple collector structure for inverted vertical bipolar transistors, integrated injection logic devices and the like. The invention increases the gain of more distant collectors toward which current flows laterally past intervening collectors from a base contact, and injector or the like. The series resistance drop and the current loss in the base-emitter junction are compensated for by progressively increasing the effective area of collectors further distant from the source of the base current. Although the graduated collector structure is applicable to a wide variety of semiconductor devices, it is particularly well suited for use in oxide-isolated integrated injection logic gates. A mathematical model is provided which can help to optimize designs incorporating the graduated collector structure.",
+        "summary": "Graduated multiple collector structure for inverted vertical bipolar transistors, integrated injection logic devices.",
+        "pca_embedding": "[-1.1793954097867376, -0.9294600792701755, -1.1533118622668852, 0.2777481663594308, 0.2886016010176049]",
+        "tsne_embedding": "[-54.068939208984375, 32.315425872802734]",
+        "cluster": "4",
+        "matches_cos": [
+            {
+                "patent_date": "2011-02-22",
+                "patent_number": 7895550,
+                "patent_title": "On chip local MOSFET sizing",
+                "patent_abstract": "A method for reducing variation in a desired property between transistors in an integrated circuit that is fabricated with a given process. The process is characterized to form a mathematical model that associates changes in polysilicon density and active density in the integrate circuit with changes in gate length and gate width in the transistors, and associates changes in the gate length and the gate width to the desired property. The integrated circuit is laid out with space sufficient to adjust the gate length and the gate width of the transistors without violating design rules of the transistors. The integrated circuit is divided into portions, and for at least a given one of the portions of the integrated circuit, the polysilicon density and the active density of the given portion is measured. For at least one of the transistors in the given portion of the integrated circuit, at least one of the gate length and the gate width of the transistor is selectively adjusted according to the mathematical model, based on at least one of the polysilicon density and the active density of the given portion, to reduce variation in the desired property between the transistors in the integrated circuit.",
+                "summary": "A method for reducing variation in a desired property between transistors in an integrated circuit that is fabricated with a given process. The process is characterized to form a mathematical model that associates changes in polysilicon density and active density in the integrate circuit with changes in gate length and gate width in the transistors.",
+                "score": 0.5181680540740651,
+                "pca_embedding": "[-0.9618803982568186, -0.443563300140016, -0.6965581304225594, 0.9924261894770721, -0.08805628520681694]",
+                "tsne_embedding": "[-48.22960662841797, 27.77523422241211]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1997-10-21",
+                "patent_number": 5680515,
+                "patent_title": "High precision computing with charge domain devices and a pseudo-spectral method therefor",
+                "patent_abstract": "The present invention enhances the bit resolution of a CCD/CID MVM processor by storing each bit of each matrix element as a separate CCD charge packet. The bits of each input vector are separately multiplied by each bit of each matrix element in massive parallelism and the resulting products are combined appropriately to synthesize the correct product. In another aspect of the invention, such arrays are employed in a pseudo-spectral method of the invention, in which partial differential equations are solved by expressing each derivative analytically as matrices, and the state function is updated at each computation cycle by multiplying it by the matrices. The matrices are treated as synaptic arrays of a neural network and the state function vector elements are treated as neurons. In a further aspect of the invention, moving target detection is performed by driving the soliton equation with a vector of detector outputs. The neural architecture consists of two synaptic arrays corresponding to the two differential terms of the soliton-equation and an adder connected to the output thereof and to the output of the detector array to drive the soliton equation.",
+                "summary": "The present invention enhances the bit resolution of a CCD/CID MVM processor by storing each bit of each matrix element as a separate CCD charge packet. In another aspect of the invention, such arrays are employed in a pseudo-spectral method.",
+                "score": 0.5068833995183487,
+                "pca_embedding": "[-1.031569329331898, -0.3295265915667666, -0.5155682010435639, -0.10532105238908039, 0.6588962829785091]",
+                "tsne_embedding": "[-48.324737548828125, 33.427310943603516]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1996-02-13",
+                "patent_number": 5491650,
+                "patent_title": "High precision computing with charge domain devices and a pseudo-spectral method therefor",
+                "patent_abstract": "The present invention discloses increased bit resolution of a charge coupled device (CCD)/charge injection device (CID) matrix vector multiplication (MVM) processor by storing each bit of each matrix element as a separate CCD charge packet. The bits of each input vector are separately multiplied by each bit of each matrix element in massive parallelism and the resulting products are combined appropriately to synthesize the correct product. In addition, such arrays are employed in a pseudo-spectral method of the invention, in which partial differential equations are solved by expressing each derivative analytically as matrices, and the state function is updated at each computation cycle by multiplying it by the matrices. The matrices are treated as synaptic arrays of a neutral network and the state function vector elements are treated as neurons. Further, moving target detection is performed by driving the soliton equation with a vector of detector outputs. The neural architecture consists of two synaptic arrays corresponding to the two differential terms of the soliton equation and an adder connected to the output thereof and to the output of the detector array to drive the soliton equation.",
+                "summary": "The present invention discloses increased bit resolution of a charge coupled device (CCD)/charge injection device (CID) matrix vector multiplication (MVM) processor. The bits of each input vector are separately multiplied by each bit of each matrix element in massive parallelism.",
+                "score": 0.5066053820143546,
+                "pca_embedding": "[-1.1982761445380106, -0.3925225921845838, -0.4651051687660603, 0.016880731009108897, 0.7186728329082268]",
+                "tsne_embedding": "[-48.332881927490234, 33.436397552490234]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2019-01-29",
+                "patent_number": 10192161,
+                "patent_title": "Lithium-drift based resistive processing unit for accelerating machine learning training",
+                "patent_abstract": "Resistive processing unit including: a plurality of transistors each having a lithium-doped region, wherein the plurality of transistors are arranged in an array to provide resistance; at least one first transmission line electrically connected to a source region of each transistor in at least one column of the array; at least one second transmission line electrically connected to a drain region of each transistor in at least one row of the array; and at least one third transmission line electrically connected to a gate region of the plurality of transistors in at least one row of the array; wherein application of an electrical voltage to the at least one first transmission line, the at least one second transmission line or the at least one third transmission line mobilizes lithium ions in the lithium region, thereby affecting a channel resistance of at least one transistor in the plurality of transistors.",
+                "summary": "Resistive processing unit including: a plurality of transistors each having a lithium-doped region. At least one first transmission line electrically connected to a source region of each transistor in at least one column of the array.",
+                "score": 0.4968448582588946,
+                "pca_embedding": "[-1.3486266420124062, -0.48152071037329325, -1.2593622739166808, -0.6247416303343122, -0.25301038727693104]",
+                "tsne_embedding": "[-48.938968658447266, 44.12570571899414]",
+                "cluster": "3"
+            },
+            {
+                "patent_date": "1999-01-26",
+                "patent_number": 5864255,
+                "patent_title": "Four quadrant square law analog multiplier using floating gate MOS transitions",
+                "patent_abstract": "A four quadrant multiplier using multiple input floating-gate MOS transistors is provided. It is based on the square law characteristics of the MOS transistor and can be realised with only four floating gate MOS transistors, two resistors and a current source. The four floating gate transistors are configured with their sources connected in common and biased by a single current source. Output is taken between two common drain connections. Each transistor has three control gates with two being provided for selected ones of the two input signals and one for a biasing signal (optional). Input signals can be connected to the control gates in either a differential or single ended configuration. In one application, a programmable synaptic cell for neural networks employs the multi-input floating-gate MOS four-quadrant analog multiplier. Varying of the neural weight connection strength of each synaptic cell is achieved by two possible methods. One method involves programming charges into or out of the primary floating-gate of the MFMOS devices associated with the multiplier. The other method is to configure the third input gate of each MFMOS device of the multiplier as another (secondary) floating-gate structure whereby charge can be programmed into or out of this secondary floating-gate structure and its coupling area to the primary floating-gate would determine the neural weight. The differential output current is proportional to the product of the input signal and the programmed charge difference. In a natural extension an array of individually programmable synaptic cells form a neural network.",
+                "summary": "A four quadrant multiplier using multiple input floating-gate MOS transistors is provided. It is based on the square law characteristics of the MOS transistor. The four floating gate transistors are configured with their sources connected in common and biased by a single current source.",
+                "score": 0.4965146949526032,
+                "pca_embedding": "[-1.6913739766742049, -0.5025481546270298, -0.8301767805266725, -0.34971761948801333, -0.30751064003329676]",
+                "tsne_embedding": "[-50.904701232910156, 39.81421661376953]",
+                "cluster": "4"
+            }
+        ],
+        "matches_mnh": [
+            {
+                "patent_date": "2014-12-09",
+                "patent_number": 8908402,
+                "patent_title": "Modular high-frequency converter and method for operating the same",
+                "patent_abstract": "A modular high-frequency converter includes submodules, each having an input-side half bridge and a DC link circuit with a DC link capacitance connected in parallel to the half bridge. A DC link circuit voltage drop across the DC link capacitance of each submodule is controlled to a target voltage by adjusting a duty cycle with a closed-loop control structure having a pilot control and a downstream closed-loop error control. Within the framework of the pilot control, a target value for each duty cycle and a target value for the supply current are determined, using a mathematical model of the converter, based on the load-side output currents flowing out of the DC link voltage circuits and on target values of the DC link circuit voltages. Switch position parameters, which map the effect of the switch positions of the input-side half bridges, are each replaced by an associated duty cycle.",
+                "summary": "A modular high-frequency converter includes sub modules, each having an input-side half bridge and a DC link circuit. A DC link Circuit voltage drop across the DC link capacitance of each sub module is controlled by adjusting a duty cycle.",
+                "score": 95.98610647657188,
+                "pca_embedding": "[-1.26172110119299, -0.579103320377996, -1.0976795691256225, 0.16159302586140226, 0.5078568551780607]",
+                "tsne_embedding": "[-52.94220733642578, 34.95845413208008]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "2020-08-11",
+                "patent_number": 10741568,
+                "patent_title": "Precision tuning for the programming of analog neural memory in a deep learning artificial neural network",
+                "patent_abstract": "Numerous embodiments of a precision tuning algorithm and apparatus are disclosed for precisely and quickly depositing the correct amount of charge on the floating gate of a non-volatile memory cell within a vector-by-matrix multiplication (VMM) array in an artificial neural network. Selected cells thereby can be programmed with extreme precision to hold one of N different values.",
+                "summary": "Numerous embodiments of a precision tuning algorithm and apparatus are disclosed for precisely and quickly depositing the correct amount of charge on the floating gate of a non-volatile memory cell. Selected cells thereby can be programmed with extreme precision to hold one of N different values.",
+                "score": 96.12138096633134,
+                "pca_embedding": "[-0.8586294978199313, -0.0321182200841558, -0.5647469902587522, 0.002365116751183672, 0.1638671199600285]",
+                "tsne_embedding": "[-47.98207473754883, 36.12028884887695]",
+                "cluster": "3"
+            },
+            {
+                "patent_date": "1997-10-21",
+                "patent_number": 5680515,
+                "patent_title": "High precision computing with charge domain devices and a pseudo-spectral method therefor",
+                "patent_abstract": "The present invention enhances the bit resolution of a CCD/CID MVM processor by storing each bit of each matrix element as a separate CCD charge packet. The bits of each input vector are separately multiplied by each bit of each matrix element in massive parallelism and the resulting products are combined appropriately to synthesize the correct product. In another aspect of the invention, such arrays are employed in a pseudo-spectral method of the invention, in which partial differential equations are solved by expressing each derivative analytically as matrices, and the state function is updated at each computation cycle by multiplying it by the matrices. The matrices are treated as synaptic arrays of a neural network and the state function vector elements are treated as neurons. In a further aspect of the invention, moving target detection is performed by driving the soliton equation with a vector of detector outputs. The neural architecture consists of two synaptic arrays corresponding to the two differential terms of the soliton-equation and an adder connected to the output thereof and to the output of the detector array to drive the soliton equation.",
+                "summary": "The present invention enhances the bit resolution of a CCD/CID MVM processor by storing each bit of each matrix element as a separate CCD charge packet. In another aspect of the invention, such arrays are employed in a pseudo-spectral method.",
+                "score": 96.83789092703957,
+                "pca_embedding": "[-1.031569329331898, -0.3295265915667666, -0.5155682010435639, -0.10532105238908039, 0.6588962829785091]",
+                "tsne_embedding": "[-48.324737548828125, 33.427310943603516]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1991-06-25",
+                "patent_number": 5027182,
+                "patent_title": "High-gain AlGaAs/GaAs double heterojunction Darlington phototransistors for optical neural networks",
+                "patent_abstract": "High-gain MOCVD-grown (metal-organic chemical vapor deposition) AlGaAs/GaAs/AlGaAs n-p-n double heterojunction bipolar transistors (DHBTs) (14) and Darlington phototransistor pairs (14, 16) are provided for use in optical neural networks and other optoelectronic integrated circuit applications. The reduced base (22) doping level used herein results in effective blockage of Zn out-diffusion, enabling a current gain of 500, higher than most previously reported values for Zn-diffused-base DHBTs. Darlington phototransistor pairs of this material can achieve a current gain of over 6,000, which satisfies the gain requirement for optical neural network designs, which advantageously may employ novel neurons (10) comprising the Darlington phototransistor pair in series with a light source (12).",
+                "summary": "High-gain MOCVD-grown (metal-organic chemical vapor deposition) AlGaAs/Gaas/AlGaAs n-p-n double heterojunction bipolar transistors. Darlington phototransistor pairs of this material can achieve a current gain of over 6,000.",
+                "score": 97.03776137362,
+                "pca_embedding": "[-1.310667279719909, -0.462646884894284, -0.5811089960901148, -0.2836603047444387, 0.6532465296123973]",
+                "tsne_embedding": "[-54.49845886230469, 27.45294952392578]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1996-02-13",
+                "patent_number": 5491650,
+                "patent_title": "High precision computing with charge domain devices and a pseudo-spectral method therefor",
+                "patent_abstract": "The present invention discloses increased bit resolution of a charge coupled device (CCD)/charge injection device (CID) matrix vector multiplication (MVM) processor by storing each bit of each matrix element as a separate CCD charge packet. The bits of each input vector are separately multiplied by each bit of each matrix element in massive parallelism and the resulting products are combined appropriately to synthesize the correct product. In addition, such arrays are employed in a pseudo-spectral method of the invention, in which partial differential equations are solved by expressing each derivative analytically as matrices, and the state function is updated at each computation cycle by multiplying it by the matrices. The matrices are treated as synaptic arrays of a neutral network and the state function vector elements are treated as neurons. Further, moving target detection is performed by driving the soliton equation with a vector of detector outputs. The neural architecture consists of two synaptic arrays corresponding to the two differential terms of the soliton equation and an adder connected to the output thereof and to the output of the detector array to drive the soliton equation.",
+                "summary": "The present invention discloses increased bit resolution of a charge coupled device (CCD)/charge injection device (CID) matrix vector multiplication (MVM) processor. The bits of each input vector are separately multiplied by each bit of each matrix element in massive parallelism.",
+                "score": 97.16990482009714,
+                "pca_embedding": "[-1.1982761445380106, -0.3925225921845838, -0.4651051687660603, 0.016880731009108897, 0.7186728329082268]",
+                "tsne_embedding": "[-48.332881927490234, 33.436397552490234]",
+                "cluster": "4"
+            }
+        ],
+        "matches_euc": [
+            {
+                "patent_date": "1997-10-21",
+                "patent_number": 5680515,
+                "patent_title": "High precision computing with charge domain devices and a pseudo-spectral method therefor",
+                "patent_abstract": "The present invention enhances the bit resolution of a CCD/CID MVM processor by storing each bit of each matrix element as a separate CCD charge packet. The bits of each input vector are separately multiplied by each bit of each matrix element in massive parallelism and the resulting products are combined appropriately to synthesize the correct product. In another aspect of the invention, such arrays are employed in a pseudo-spectral method of the invention, in which partial differential equations are solved by expressing each derivative analytically as matrices, and the state function is updated at each computation cycle by multiplying it by the matrices. The matrices are treated as synaptic arrays of a neural network and the state function vector elements are treated as neurons. In a further aspect of the invention, moving target detection is performed by driving the soliton equation with a vector of detector outputs. The neural architecture consists of two synaptic arrays corresponding to the two differential terms of the soliton-equation and an adder connected to the output thereof and to the output of the detector array to drive the soliton equation.",
+                "summary": "The present invention enhances the bit resolution of a CCD/CID MVM processor by storing each bit of each matrix element as a separate CCD charge packet. In another aspect of the invention, such arrays are employed in a pseudo-spectral method.",
+                "score": 4.366600136266701,
+                "pca_embedding": "[-1.031569329331898, -0.3295265915667666, -0.5155682010435639, -0.10532105238908039, 0.6588962829785091]",
+                "tsne_embedding": "[-48.324737548828125, 33.427310943603516]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2014-12-09",
+                "patent_number": 8908402,
+                "patent_title": "Modular high-frequency converter and method for operating the same",
+                "patent_abstract": "A modular high-frequency converter includes submodules, each having an input-side half bridge and a DC link circuit with a DC link capacitance connected in parallel to the half bridge. A DC link circuit voltage drop across the DC link capacitance of each submodule is controlled to a target voltage by adjusting a duty cycle with a closed-loop control structure having a pilot control and a downstream closed-loop error control. Within the framework of the pilot control, a target value for each duty cycle and a target value for the supply current are determined, using a mathematical model of the converter, based on the load-side output currents flowing out of the DC link voltage circuits and on target values of the DC link circuit voltages. Switch position parameters, which map the effect of the switch positions of the input-side half bridges, are each replaced by an associated duty cycle.",
+                "summary": "A modular high-frequency converter includes sub modules, each having an input-side half bridge and a DC link circuit. A DC link Circuit voltage drop across the DC link capacitance of each sub module is controlled by adjusting a duty cycle.",
+                "score": 4.371940144407719,
+                "pca_embedding": "[-1.26172110119299, -0.579103320377996, -1.0976795691256225, 0.16159302586140226, 0.5078568551780607]",
+                "tsne_embedding": "[-52.94220733642578, 34.95845413208008]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "2020-08-11",
+                "patent_number": 10741568,
+                "patent_title": "Precision tuning for the programming of analog neural memory in a deep learning artificial neural network",
+                "patent_abstract": "Numerous embodiments of a precision tuning algorithm and apparatus are disclosed for precisely and quickly depositing the correct amount of charge on the floating gate of a non-volatile memory cell within a vector-by-matrix multiplication (VMM) array in an artificial neural network. Selected cells thereby can be programmed with extreme precision to hold one of N different values.",
+                "summary": "Numerous embodiments of a precision tuning algorithm and apparatus are disclosed for precisely and quickly depositing the correct amount of charge on the floating gate of a non-volatile memory cell. Selected cells thereby can be programmed with extreme precision to hold one of N different values.",
+                "score": 4.372796522596006,
+                "pca_embedding": "[-0.8586294978199313, -0.0321182200841558, -0.5647469902587522, 0.002365116751183672, 0.1638671199600285]",
+                "tsne_embedding": "[-47.98207473754883, 36.12028884887695]",
+                "cluster": "3"
+            },
+            {
+                "patent_date": "1991-06-25",
+                "patent_number": 5027182,
+                "patent_title": "High-gain AlGaAs/GaAs double heterojunction Darlington phototransistors for optical neural networks",
+                "patent_abstract": "High-gain MOCVD-grown (metal-organic chemical vapor deposition) AlGaAs/GaAs/AlGaAs n-p-n double heterojunction bipolar transistors (DHBTs) (14) and Darlington phototransistor pairs (14, 16) are provided for use in optical neural networks and other optoelectronic integrated circuit applications. The reduced base (22) doping level used herein results in effective blockage of Zn out-diffusion, enabling a current gain of 500, higher than most previously reported values for Zn-diffused-base DHBTs. Darlington phototransistor pairs of this material can achieve a current gain of over 6,000, which satisfies the gain requirement for optical neural network designs, which advantageously may employ novel neurons (10) comprising the Darlington phototransistor pair in series with a light source (12).",
+                "summary": "High-gain MOCVD-grown (metal-organic chemical vapor deposition) AlGaAs/Gaas/AlGaAs n-p-n double heterojunction bipolar transistors. Darlington phototransistor pairs of this material can achieve a current gain of over 6,000.",
+                "score": 4.388354502463031,
+                "pca_embedding": "[-1.310667279719909, -0.462646884894284, -0.5811089960901148, -0.2836603047444387, 0.6532465296123973]",
+                "tsne_embedding": "[-54.49845886230469, 27.45294952392578]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1996-02-13",
+                "patent_number": 5491650,
+                "patent_title": "High precision computing with charge domain devices and a pseudo-spectral method therefor",
+                "patent_abstract": "The present invention discloses increased bit resolution of a charge coupled device (CCD)/charge injection device (CID) matrix vector multiplication (MVM) processor by storing each bit of each matrix element as a separate CCD charge packet. The bits of each input vector are separately multiplied by each bit of each matrix element in massive parallelism and the resulting products are combined appropriately to synthesize the correct product. In addition, such arrays are employed in a pseudo-spectral method of the invention, in which partial differential equations are solved by expressing each derivative analytically as matrices, and the state function is updated at each computation cycle by multiplying it by the matrices. The matrices are treated as synaptic arrays of a neutral network and the state function vector elements are treated as neurons. Further, moving target detection is performed by driving the soliton equation with a vector of detector outputs. The neural architecture consists of two synaptic arrays corresponding to the two differential terms of the soliton equation and an adder connected to the output thereof and to the output of the detector array to drive the soliton equation.",
+                "summary": "The present invention discloses increased bit resolution of a charge coupled device (CCD)/charge injection device (CID) matrix vector multiplication (MVM) processor. The bits of each input vector are separately multiplied by each bit of each matrix element in massive parallelism.",
+                "score": 4.413338878716525,
+                "pca_embedding": "[-1.1982761445380106, -0.3925225921845838, -0.4651051687660603, 0.016880731009108897, 0.7186728329082268]",
+                "tsne_embedding": "[-48.332881927490234, 33.436397552490234]",
+                "cluster": "4"
+            }
+        ]
+    },
+    "1980": {
+        "patent_date": "1987-06-09",
+        "patent_number": 4672196,
+        "patent_title": "Method and apparatus for measuring properties of thin materials using polarized light",
+        "patent_abstract": "A method and means for measuring and/or determining characteristics of a material by analyzing the characteristics of an energy beam incident upon and affected by the sample. Polarized radiant energy reflected and/or transmitted by the material sample is analyzed to infer optical properties such as index of refraction, and physical properties such as material thickness. The invention is not subject to the disadvantages of prior art measuring systems, in that absolute detected light values are not used, measurement of varying wavelengths of light are not necessary, surface defects contribute a balanced effect in the calculations so as to effectively cancel out, highly accurate angular measuring devices are not needed, precision nulling instruments are avoided, system parameter drift effects upon the measurement is avoided, inter alia. According to the invention, a method and means are provided for measuring an optical property of a thin material sample having a transmission efficiency of greater than zero for an impinging beam of radiant energy. A source beam of radiant energy at a given wavelength and of varying polarization direction is provided, and the polarization-varying beam is directed onto an entry surface of the thin material sample at a predetermined angle with respect thereto. The beam leaving the sample is analyzed to determine the relative amplitudes of first and second polarized components thereof. The optical property of the sample is determined from a mathematical model equating the optical property to a relationship between said wavelength of the source beam, the predetermined angle, and the results of detecting and analyzing the beam exiting the sample.",
+        "summary": "Polarized radiant energy reflected and/or transmitted by the material sample is analyzed to infer optical properties such as index of refraction. The invention is not subject to the disadvantages of prior art measuring systems, in that absolute detected light values are not used.",
+        "pca_embedding": "[-1.2625432318315448, -0.8830763612731984, 0.9008581674420747, 1.093183905038938, 0.9915642036563588]",
+        "tsne_embedding": "[-43.52521896362305, -11.123744010925293]",
+        "cluster": "4",
+        "matches_cos": [
+            {
+                "patent_date": "1997-04-01",
+                "patent_number": 5617201,
+                "patent_title": "Method for refractometer measuring using mathematical modelling",
+                "patent_abstract": "A method for refractometer measuring, in which a beam of rays emitted from a light source is transmitted to the interface between the optical window of a refractometer and the liquid to be measured, whereby part of the beam of rays is reflected back from the liquid and part is absorbed into the liquid and an image is produced in which the position of the boundary between a light and dark area depends on the critical angle of total reflection, the critical angle being a function of concentration of liquid, and in which the boundary between the light and dark area of the image is determined by light detectors arranged in a line. For good resolution, to the measuring data obtained from the light detectors is applied a mathematical model corresponding with the information provided by the measuring data and the position of the boundary is determined by means of this model.",
+                "summary": "A refractometer measuring method uses a beam of rays emitted from a light source. Part of the beam is reflected back from the liquid and part is absorbed into the liquid. The position of the boundary between a light and dark area depends on the critical angle of total reflection.",
+                "score": 0.6473093753347703,
+                "pca_embedding": "[-1.4293935807961151, -1.0609966327163693, 1.6192460504702877, 0.9914244584344547, 0.7441592037645465]",
+                "tsne_embedding": "[-43.88895034790039, -10.367488861083984]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1999-08-10",
+                "patent_number": 5936734,
+                "patent_title": "Analysis of partially polarized electromagnetic radiation in ellipsometer and polarimeter systems",
+                "patent_abstract": "The use of ellipsometry and polarimetry in analysis of partially polarized beams of electromagnetic radiation, such as result from simultaneous ellipsometric investigation of a plurality of identifiably separate laterally disposed regions on a patterned sample system, is disclosed. Practice of the present invention methodology enables evaluation of characterizing representative parameters of partially polarized beams of electromagnetic radiation, and laterally and vertically oriented physical dimensions and/or optical property(s) of at least two identifiably separate laterally disposed regions of a partially depolarizing sample system. The present invention identifies partially polarized electromagnetic beam characterizing partitioning representative parameter(s) which quantify electromagnetic beam intensity resulting from coherent and from incoherent addition of electric fields, respectively, as well as electromagnetic beam spacial and/or temporal coherence and degree of collimation characterizing representative parameters as mathematical model parameters which can be evaluated, in addition to investigated patterned sample system laterally and vertically oriented physical dimensions and/or optical property(s) characterizing representative parameters. The depolarizing effects of backside reflections associated with layers in sample system region(s) are also be included.",
+                "summary": "The use of ellipsometry and polarimetry in analysis of partially polarized beams of electromagnetic radiation is disclosed. The depolarizing effects of backside reflections associated with layers in sample system region(s) are also be included.",
+                "score": 0.6234525197990863,
+                "pca_embedding": "[-0.8368986682899389, -0.8387446436701596, 0.675409916920349, 0.6823084691906764, 1.2099603539453128]",
+                "tsne_embedding": "[-43.665260314941406, -12.213706016540527]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1995-05-30",
+                "patent_number": 5420682,
+                "patent_title": "Method and apparatus for compensating spectral data with a color sensor",
+                "patent_abstract": "A method and apparatus for interpreting spectral data in an optical sensor for a variety of uses, such as the manufacture of paper. A probe is inserted into paper pulp during the manufacturing process. The probe emits light into the pulp which is then reflected back and received. This reflected light is segmented into N different wavelengths over the visible spectrum. An N signal array is created which is used in a mathematical model to accurately depict a brightness and consistency of the paper pulp.",
+                "summary": "A probe is inserted into paper pulp during the manufacturing process. The probe emits light into the pulp which is then reflected back and received. This reflected light is segmented into N different wavelengths over the visible spectrum.",
+                "score": 0.6047226254856991,
+                "pca_embedding": "[-1.1940723761232792, -0.7220178870614389, 1.3092002687912703, 0.2583448823623809, 0.8087379554522794]",
+                "tsne_embedding": "[-44.62051010131836, -9.474252700805664]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2018-09-25",
+                "patent_number": 10082459,
+                "patent_title": "Method and apparatus for measuring refractive index in model-free manner",
+                "patent_abstract": "A method and apparatus for measuring a refractive index in a model-free manner are disclosed. The method includes: emitting a light to a surface plasmon generation layer that includes a nanoslot antenna and is disposed adjacent to a sample, to convert the light into surface plasmon; measuring a transmission of the sample from the light that is emitted onto the surface plasmon generation layer and passes through the sample; repeating the measuring the transmission while changing a length of the nanoslot antenna; and determining, based on a machine learning scheme, a restoration refractive index of the sample that is close to a graph of transmissions measured while changing the length of the nanoslot antenna from a library including a refractive index, a length of the nanoslot antenna, and a transmission at a specific wavelength.",
+                "summary": "A method and apparatus for measuring a refractive index in a model-free manner are disclosed. The method includes: emitting a light to a surface plasmon generation layer that includes a nanoslot antenna and is disposed adjacent to a sample.",
+                "score": 0.595406989074833,
+                "pca_embedding": "[-1.2324628202719519, -0.41027100973160935, 1.1091289767327805, 1.085690977276775, 0.6244472025966694]",
+                "tsne_embedding": "[-43.88701248168945, -10.139718055725098]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2019-04-02",
+                "patent_number": 10248029,
+                "patent_title": "Method and apparatus for inspection and metrology",
+                "patent_abstract": "A method involving a radiation intensity distribution for a target measured using an optical component at a gap from the target, the method including: determining a value of a parameter of interest using the measured radiation intensity distribution and a mathematical model describing the target, the model including an effective medium approximation for roughness of a surface of the optical component or a part thereof.",
+                "summary": "A method involving a radiation intensity distribution for a target measured using an optical component at a gap from the target.",
+                "score": 0.5789137616562468,
+                "pca_embedding": "[-1.2630535526413258, -0.45030018021827195, 1.545777533087956, 2.374330259381903, 0.11030376761533342]",
+                "tsne_embedding": "[-46.452186584472656, -8.834117889404297]",
+                "cluster": "4"
+            }
+        ],
+        "matches_mnh": [
+            {
+                "patent_date": "1999-08-10",
+                "patent_number": 5936734,
+                "patent_title": "Analysis of partially polarized electromagnetic radiation in ellipsometer and polarimeter systems",
+                "patent_abstract": "The use of ellipsometry and polarimetry in analysis of partially polarized beams of electromagnetic radiation, such as result from simultaneous ellipsometric investigation of a plurality of identifiably separate laterally disposed regions on a patterned sample system, is disclosed. Practice of the present invention methodology enables evaluation of characterizing representative parameters of partially polarized beams of electromagnetic radiation, and laterally and vertically oriented physical dimensions and/or optical property(s) of at least two identifiably separate laterally disposed regions of a partially depolarizing sample system. The present invention identifies partially polarized electromagnetic beam characterizing partitioning representative parameter(s) which quantify electromagnetic beam intensity resulting from coherent and from incoherent addition of electric fields, respectively, as well as electromagnetic beam spacial and/or temporal coherence and degree of collimation characterizing representative parameters as mathematical model parameters which can be evaluated, in addition to investigated patterned sample system laterally and vertically oriented physical dimensions and/or optical property(s) characterizing representative parameters. The depolarizing effects of backside reflections associated with layers in sample system region(s) are also be included.",
+                "summary": "The use of ellipsometry and polarimetry in analysis of partially polarized beams of electromagnetic radiation is disclosed. The depolarizing effects of backside reflections associated with layers in sample system region(s) are also be included.",
+                "score": 86.21327372395899,
+                "pca_embedding": "[-0.8368986682899389, -0.8387446436701596, 0.675409916920349, 0.6823084691906764, 1.2099603539453128]",
+                "tsne_embedding": "[-43.665260314941406, -12.213706016540527]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2008-08-19",
+                "patent_number": 7415136,
+                "patent_title": "Optical method and system for rapid identification of multiple refractive index materials using multiscale texture and color invariants",
+                "patent_abstract": "An innovative optical system and method is disclosed for analyzing and uniquely identifying high-order refractive indices samples in a diverse population of nearly identical samples. The system and method are particularly suitable for ultra-fine materials having similar color, shape and features which are difficult to identify through conventional chemical, physical, electrical or optical methods due to a lack of distinguishing features. The invention discloses a uniquely configured optical system which employs polarized sample light passing through a full wave compensation plate, a linear polarizer analyzer and a quarter wave retardation plate for producing vivid color bi-refringence pattern images which uniquely identify high-order refractive indices samples in a diverse population of nearly visually identical samples. The resultant patterns display very subtle differences between species which are frequently indiscernable by conventional microscopy methods. When these images are analyzed with a trainable with a statistical learning model, such as a soft-margin support vector machine with a Gaussian RBF kernel, good discrimination is obtained on a feature set extracted from Gabor wavelet transforms and color distribution angles of each image. By constraining the Gabor center frequencies to be low, the resulting system can attain classification accuracy in excess of 90% for vertically oriented images, and in excess of 80% for randomly oriented images.",
+                "summary": "An innovative optical system and method is disclosed for analyzing and uniquely identifying high-order refractive indices samples in a diverse population of nearly identical samples. System and method are particularly suitable for ultra-fine materials having similar color and shape.",
+                "score": 89.6982127642259,
+                "pca_embedding": "[-0.8892389886520641, -0.790859349435966, 0.8462172131117969, 0.46443126593308426, 1.1363374758030675]",
+                "tsne_embedding": "[-42.01935577392578, -10.711711883544922]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1997-04-01",
+                "patent_number": 5617201,
+                "patent_title": "Method for refractometer measuring using mathematical modelling",
+                "patent_abstract": "A method for refractometer measuring, in which a beam of rays emitted from a light source is transmitted to the interface between the optical window of a refractometer and the liquid to be measured, whereby part of the beam of rays is reflected back from the liquid and part is absorbed into the liquid and an image is produced in which the position of the boundary between a light and dark area depends on the critical angle of total reflection, the critical angle being a function of concentration of liquid, and in which the boundary between the light and dark area of the image is determined by light detectors arranged in a line. For good resolution, to the measuring data obtained from the light detectors is applied a mathematical model corresponding with the information provided by the measuring data and the position of the boundary is determined by means of this model.",
+                "summary": "A refractometer measuring method uses a beam of rays emitted from a light source. Part of the beam is reflected back from the liquid and part is absorbed into the liquid. The position of the boundary between a light and dark area depends on the critical angle of total reflection.",
+                "score": 90.96108232811092,
+                "pca_embedding": "[-1.4293935807961151, -1.0609966327163693, 1.6192460504702877, 0.9914244584344547, 0.7441592037645465]",
+                "tsne_embedding": "[-43.88895034790039, -10.367488861083984]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2018-09-25",
+                "patent_number": 10082459,
+                "patent_title": "Method and apparatus for measuring refractive index in model-free manner",
+                "patent_abstract": "A method and apparatus for measuring a refractive index in a model-free manner are disclosed. The method includes: emitting a light to a surface plasmon generation layer that includes a nanoslot antenna and is disposed adjacent to a sample, to convert the light into surface plasmon; measuring a transmission of the sample from the light that is emitted onto the surface plasmon generation layer and passes through the sample; repeating the measuring the transmission while changing a length of the nanoslot antenna; and determining, based on a machine learning scheme, a restoration refractive index of the sample that is close to a graph of transmissions measured while changing the length of the nanoslot antenna from a library including a refractive index, a length of the nanoslot antenna, and a transmission at a specific wavelength.",
+                "summary": "A method and apparatus for measuring a refractive index in a model-free manner are disclosed. The method includes: emitting a light to a surface plasmon generation layer that includes a nanoslot antenna and is disposed adjacent to a sample.",
+                "score": 91.05400224309416,
+                "pca_embedding": "[-1.2324628202719519, -0.41027100973160935, 1.1091289767327805, 1.085690977276775, 0.6244472025966694]",
+                "tsne_embedding": "[-43.88701248168945, -10.139718055725098]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2019-10-01",
+                "patent_number": 10429316,
+                "patent_title": "Method and device for scanning of objects using a combination of spectral ranges within vision, near infrared light and X-rays",
+                "patent_abstract": "The method and equipment described are for coherent scanning, that is where sections of the same object are comparable in the images, of objects such as food stuff based on scanning with the utilization of electromagnetic waves from at least two ranges within vision (visible light), NIR (near infrared light) and X-rays. The method consist of determination an object's reflection in the NIR and/or vision ranges associated with the same object's transmission in the X-ray range to obtain an even higher degree of details concerning the structure of the object by determining its surface texture together with description of its inner structure and/or composition. The equipment comprises a cabinet (2), a computer (6), a camera (3), an X-ray source (4), a light source (7), and an X-ray detector (5). An additional start sensor (8) registers the presence of objects on the conveyor belt (1) and the scanning is triggered.",
+                "summary": "The method and equipment described are for coherent scanning, that is where sections of the same object are comparable in the images. The method consist of determination an object's reflection in the NIR and/or vision ranges. The equipment comprises a cabinet (2), a computer (6), a camera (3),",
+                "score": 92.2131441377569,
+                "pca_embedding": "[-0.9773486450066001, -0.30573451007139996, 1.517398729239601, 0.7776149957037228, 0.31577099305630174]",
+                "tsne_embedding": "[-44.679603576660156, -8.816932678222656]",
+                "cluster": "2"
+            }
+        ],
+        "matches_euc": [
+            {
+                "patent_date": "1999-08-10",
+                "patent_number": 5936734,
+                "patent_title": "Analysis of partially polarized electromagnetic radiation in ellipsometer and polarimeter systems",
+                "patent_abstract": "The use of ellipsometry and polarimetry in analysis of partially polarized beams of electromagnetic radiation, such as result from simultaneous ellipsometric investigation of a plurality of identifiably separate laterally disposed regions on a patterned sample system, is disclosed. Practice of the present invention methodology enables evaluation of characterizing representative parameters of partially polarized beams of electromagnetic radiation, and laterally and vertically oriented physical dimensions and/or optical property(s) of at least two identifiably separate laterally disposed regions of a partially depolarizing sample system. The present invention identifies partially polarized electromagnetic beam characterizing partitioning representative parameter(s) which quantify electromagnetic beam intensity resulting from coherent and from incoherent addition of electric fields, respectively, as well as electromagnetic beam spacial and/or temporal coherence and degree of collimation characterizing representative parameters as mathematical model parameters which can be evaluated, in addition to investigated patterned sample system laterally and vertically oriented physical dimensions and/or optical property(s) characterizing representative parameters. The depolarizing effects of backside reflections associated with layers in sample system region(s) are also be included.",
+                "summary": "The use of ellipsometry and polarimetry in analysis of partially polarized beams of electromagnetic radiation is disclosed. The depolarizing effects of backside reflections associated with layers in sample system region(s) are also be included.",
+                "score": 3.864833005960975,
+                "pca_embedding": "[-0.8368986682899389, -0.8387446436701596, 0.675409916920349, 0.6823084691906764, 1.2099603539453128]",
+                "tsne_embedding": "[-43.665260314941406, -12.213706016540527]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2008-08-19",
+                "patent_number": 7415136,
+                "patent_title": "Optical method and system for rapid identification of multiple refractive index materials using multiscale texture and color invariants",
+                "patent_abstract": "An innovative optical system and method is disclosed for analyzing and uniquely identifying high-order refractive indices samples in a diverse population of nearly identical samples. The system and method are particularly suitable for ultra-fine materials having similar color, shape and features which are difficult to identify through conventional chemical, physical, electrical or optical methods due to a lack of distinguishing features. The invention discloses a uniquely configured optical system which employs polarized sample light passing through a full wave compensation plate, a linear polarizer analyzer and a quarter wave retardation plate for producing vivid color bi-refringence pattern images which uniquely identify high-order refractive indices samples in a diverse population of nearly visually identical samples. The resultant patterns display very subtle differences between species which are frequently indiscernable by conventional microscopy methods. When these images are analyzed with a trainable with a statistical learning model, such as a soft-margin support vector machine with a Gaussian RBF kernel, good discrimination is obtained on a feature set extracted from Gabor wavelet transforms and color distribution angles of each image. By constraining the Gabor center frequencies to be low, the resulting system can attain classification accuracy in excess of 90% for vertically oriented images, and in excess of 80% for randomly oriented images.",
+                "summary": "An innovative optical system and method is disclosed for analyzing and uniquely identifying high-order refractive indices samples in a diverse population of nearly identical samples. System and method are particularly suitable for ultra-fine materials having similar color and shape.",
+                "score": 4.0435999516516175,
+                "pca_embedding": "[-0.8892389886520641, -0.790859349435966, 0.8462172131117969, 0.46443126593308426, 1.1363374758030675]",
+                "tsne_embedding": "[-42.01935577392578, -10.711711883544922]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2018-09-25",
+                "patent_number": 10082459,
+                "patent_title": "Method and apparatus for measuring refractive index in model-free manner",
+                "patent_abstract": "A method and apparatus for measuring a refractive index in a model-free manner are disclosed. The method includes: emitting a light to a surface plasmon generation layer that includes a nanoslot antenna and is disposed adjacent to a sample, to convert the light into surface plasmon; measuring a transmission of the sample from the light that is emitted onto the surface plasmon generation layer and passes through the sample; repeating the measuring the transmission while changing a length of the nanoslot antenna; and determining, based on a machine learning scheme, a restoration refractive index of the sample that is close to a graph of transmissions measured while changing the length of the nanoslot antenna from a library including a refractive index, a length of the nanoslot antenna, and a transmission at a specific wavelength.",
+                "summary": "A method and apparatus for measuring a refractive index in a model-free manner are disclosed. The method includes: emitting a light to a surface plasmon generation layer that includes a nanoslot antenna and is disposed adjacent to a sample.",
+                "score": 4.10730814948926,
+                "pca_embedding": "[-1.2324628202719519, -0.41027100973160935, 1.1091289767327805, 1.085690977276775, 0.6244472025966694]",
+                "tsne_embedding": "[-43.88701248168945, -10.139718055725098]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1997-04-01",
+                "patent_number": 5617201,
+                "patent_title": "Method for refractometer measuring using mathematical modelling",
+                "patent_abstract": "A method for refractometer measuring, in which a beam of rays emitted from a light source is transmitted to the interface between the optical window of a refractometer and the liquid to be measured, whereby part of the beam of rays is reflected back from the liquid and part is absorbed into the liquid and an image is produced in which the position of the boundary between a light and dark area depends on the critical angle of total reflection, the critical angle being a function of concentration of liquid, and in which the boundary between the light and dark area of the image is determined by light detectors arranged in a line. For good resolution, to the measuring data obtained from the light detectors is applied a mathematical model corresponding with the information provided by the measuring data and the position of the boundary is determined by means of this model.",
+                "summary": "A refractometer measuring method uses a beam of rays emitted from a light source. Part of the beam is reflected back from the liquid and part is absorbed into the liquid. The position of the boundary between a light and dark area depends on the critical angle of total reflection.",
+                "score": 4.129291492601647,
+                "pca_embedding": "[-1.4293935807961151, -1.0609966327163693, 1.6192460504702877, 0.9914244584344547, 0.7441592037645465]",
+                "tsne_embedding": "[-43.88895034790039, -10.367488861083984]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2019-10-01",
+                "patent_number": 10429316,
+                "patent_title": "Method and device for scanning of objects using a combination of spectral ranges within vision, near infrared light and X-rays",
+                "patent_abstract": "The method and equipment described are for coherent scanning, that is where sections of the same object are comparable in the images, of objects such as food stuff based on scanning with the utilization of electromagnetic waves from at least two ranges within vision (visible light), NIR (near infrared light) and X-rays. The method consist of determination an object's reflection in the NIR and/or vision ranges associated with the same object's transmission in the X-ray range to obtain an even higher degree of details concerning the structure of the object by determining its surface texture together with description of its inner structure and/or composition. The equipment comprises a cabinet (2), a computer (6), a camera (3), an X-ray source (4), a light source (7), and an X-ray detector (5). An additional start sensor (8) registers the presence of objects on the conveyor belt (1) and the scanning is triggered.",
+                "summary": "The method and equipment described are for coherent scanning, that is where sections of the same object are comparable in the images. The method consist of determination an object's reflection in the NIR and/or vision ranges. The equipment comprises a cabinet (2), a computer (6), a camera (3),",
+                "score": 4.204082291022092,
+                "pca_embedding": "[-0.9773486450066001, -0.30573451007139996, 1.517398729239601, 0.7776149957037228, 0.31577099305630174]",
+                "tsne_embedding": "[-44.679603576660156, -8.816932678222656]",
+                "cluster": "2"
+            }
+        ]
+    },
+    "1990": {
+        "patent_date": "1998-05-26",
+        "patent_number": 5755212,
+        "patent_title": "Air-fuel ratio control system for internal combustion engine",
+        "patent_abstract": "An air-fuel ratio control system with a high accuracy for an internal combustion engine which is capable of particularly improving the transient response characteristic irrespective of the occurrence of an air-fuel ratio sensor delay and a fuel attachment. An in-cylinder air-fuel ratio is calculated on the basis of engine data obtained in advance so that an neural network (NN) receiving a fuel injection quantity involving the past value and air quantity estimating information such as an intake pressure and outputting a calculated in-cylinder air-fuel ratio undergoes learning. In the actual control, a difference between the in-cylinder air-fuel ratio estimated in the NN and the target air-fuel ratio is taken on the basis of information such as a fuel injection quantity varying with the time and the output of the NN is partially differentiated with respect to the fuel injection quantity, so that the difference therebetween is divided by the resultant partial differential coefficient to obtain a fuel correction amount whereby the in-cylinder air-fuel ratio coincides with the target air-fuel ratio. The fuel injection quantity is corrected with this correction amount to calculate a final fuel injection quantity. That is, the in-cylinder air-fuel ratio is controlled to approach the target air-fuel ratio so that the exhaust gas air-fuel ratio equals the target air-fuel ratio.",
+        "summary": "An in-cylinder air-fuel ratio is calculated on the basis of engine data obtained in advance. An neural network (NN) receives a fuel injection quantity involving the past value and air quantity estimating information such as an intake pressure.",
+        "pca_embedding": "[-0.6712908824660261, 0.26858957377577025, -0.82148498831941, 0.861431005837586, -0.09867368836686975]",
+        "tsne_embedding": "[-65.89250946044922, -19.422048568725586]",
+        "cluster": "1",
+        "matches_cos": [
+            {
+                "patent_date": "1997-08-19",
+                "patent_number": 5657737,
+                "patent_title": "Air-fuel ratio control system",
+                "patent_abstract": "An air-fuel ratio control system which calculates a basic injection amount of fuel by state detecting sensors (21) each of which detects an operating state of an internal combustion engine, air-amount detecting sensors (22) each of which detects an intake air amount, an air-fuel ratio sensor (23), and a predetermined data group. Further, the air-fuel ratio control system stores past amount data of injected fuel and air-fuel ratio data at each control cycle. A neuro-computation unit (29) reads values of the data detected by the sensors (21,22) and the stored data to obtain an air-fuel ratio estimate to calculate a correction injection amount of fuel by a neural network of a forward neuro-computing unit (210), which has learned beforehand about relations of the injected fuel amount, the detected air-fuel ratio, parameters, and dead time.",
+                "summary": "An air-fuel ratio control system calculates a basic injection amount of fuel by state detecting sensors (21) and air-amount detecting sensors. A neuro-computation unit (29) reads values of the data detected by the sensors and the stored data to obtain an air- fuel ratio estimate to calculate",
+                "score": 0.8086158678058676,
+                "pca_embedding": "[-0.819018979510973, -0.39791199201852895, -0.6914232131847817, 0.396447210990851, -0.18758669810753342]",
+                "tsne_embedding": "[-65.92691040039062, -19.73975372314453]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "1999-06-29",
+                "patent_number": 5915368,
+                "patent_title": "Air/fuel ratio control apparatus that uses a neural network",
+                "patent_abstract": "An air/fuel ratio control apparatus for executing auxiliary control of an air/fuel ratio by compensating an injected fuel amount set by a control system for maintaining the air/fuel ratio at a preset value. The air/fuel ratio control apparatus includes a state detecting unit for detecting a plurality of physical values which can be measured at low temperature and which show a state of an engine, an air/fuel ratio estimating unit for receiving a plurality of physical values detected by the state detecting means as input parameters and for estimating the air/fuel ratio using a neural network, and a compensatory fuel amount calculating unit for calculating a compensatory fuel amount for the injected fuel amount from the estimated air/fuel ratio. Here, low temperature refers to a temperature at which an air/fuel sensor cannot operate.",
+                "summary": "Air/fuel ratio control apparatus includes a state detecting unit for detecting a plurality of physical values which can be measured at low temperature. It also includes an air/fuel ratios estimating unit for receiving the state detecting means as input parameters and for estimating the air/ fuel ratio.",
+                "score": 0.753871948953287,
+                "pca_embedding": "[-0.7833674086336998, -0.2827650691975537, -0.9637464802395492, 0.6311720803538964, -0.033203360841242056]",
+                "tsne_embedding": "[-65.95830535888672, -19.770647048950195]",
+                "cluster": "3"
+            },
+            {
+                "patent_date": "2008-06-10",
+                "patent_number": 7386388,
+                "patent_title": "Air-fuel ratio control system and method for internal combustion engine, and engine control unit",
+                "patent_abstract": "An air-fuel ratio control system for an internal combustion engine, which is capable of accurately estimating an exhaust gas state parameter according to the properties of fuel, thereby making it possible to properly control the air-fuel ratio of a mixture. The air-fuel ratio control system 1 estimates an exhaust gas state parameter indicative of a state of exhaust gases, as an estimated exhaust gas state parameter (AF13 NN) by inputting a detected combustion state parameter (DCADLYIG) indicative of a combustion state of the mixture in the engine 3, and detected operating state parameters (NE, TW, PBA, IGLOG, TOUT) indicative of operating states of the engine 3, to a neural network (NN) configured as a network to which are input the combustion state parameter (DCADLYIG) and the operating state parameters (NE, TW, PBA, IGLOG, TOUT), and in which the exhaust gas state parameter is used as a teacher signal (step 1), and controls the air-fuel ratio based on the estimated exhaust gas state parameter (AF_NN) (steps 3, 4, and 24 to 28).",
+                "summary": "Air-fuel ratio control system 1 estimates an exhaust gas state parameter indicative of a state of exhaust gases. It controls the air-fuel ratios of a mixture based on the estimated exhaust gasState Parameter (AF_NN)",
+                "score": 0.7505681297206431,
+                "pca_embedding": "[-0.6392418268810411, -0.30436014347652673, -0.8787545101798802, 1.2004053145044895, -0.2145902328833456]",
+                "tsne_embedding": "[-65.92606353759766, -19.52188491821289]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "2011-06-14",
+                "patent_number": 7962272,
+                "patent_title": "Method and associated device for sensing the air/fuel ratio of an internal combustion engine",
+                "patent_abstract": "A method of sensing the air/fuel ratio in a combustion chamber of an internal combustion engine that may be easily implemented by a respective low-cost device includes a pressure sensor and a learning machine that generates a sensing signal representing the air/fuel ratio by processing the waveform of the pressure in at least one cylinder of the engine. In practice, the learning machine extracts characteristic parameters of the waveform of the pressure and as a function of a certain number of them generates the sensing signal.",
+                "summary": "A pressure sensor and a learning machine generates a sensing signal representing the air/fuel ratio. The waveform of the pressure in at least one cylinder of the engine is processed by the machine.",
+                "score": 0.6731860440456173,
+                "pca_embedding": "[-1.0092589939387608, -0.1455522804066414, 0.09764315582544934, 1.020233627962967, 0.3426122824149303]",
+                "tsne_embedding": "[-64.25841522216797, -18.296207427978516]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "2008-10-21",
+                "patent_number": 7440839,
+                "patent_title": "Method and associated device for sensing the air/fuel ratio of an internal combustion engine",
+                "patent_abstract": "A method of sensing the air/fuel ratio in a combustion chamber of an internal combustion engine that may be easily implemented by a respective low-cost device includes a pressure sensor and a learning machine that generates a sensing signal representing the air/fuel ratio by processing the waveform of the pressure in at least one cylinder of the engine. In practice, the learning machine extracts characteristic parameters of the waveform of the pressure and as a function of a certain number of them generates the sensing signal.",
+                "summary": "A pressure sensor and a learning machine generates a sensing signal representing the air/fuel ratio. The waveform of the pressure in at least one cylinder of the engine is processed by the machine.",
+                "score": 0.6731860440456173,
+                "pca_embedding": "[-1.0092589939387608, -0.1455522804066414, 0.09764315582544934, 1.020233627962967, 0.3426122824149303]",
+                "tsne_embedding": "[-64.25841522216797, -18.296207427978516]",
+                "cluster": "1"
+            }
+        ],
+        "matches_mnh": [
+            {
+                "patent_date": "1997-08-19",
+                "patent_number": 5657737,
+                "patent_title": "Air-fuel ratio control system",
+                "patent_abstract": "An air-fuel ratio control system which calculates a basic injection amount of fuel by state detecting sensors (21) each of which detects an operating state of an internal combustion engine, air-amount detecting sensors (22) each of which detects an intake air amount, an air-fuel ratio sensor (23), and a predetermined data group. Further, the air-fuel ratio control system stores past amount data of injected fuel and air-fuel ratio data at each control cycle. A neuro-computation unit (29) reads values of the data detected by the sensors (21,22) and the stored data to obtain an air-fuel ratio estimate to calculate a correction injection amount of fuel by a neural network of a forward neuro-computing unit (210), which has learned beforehand about relations of the injected fuel amount, the detected air-fuel ratio, parameters, and dead time.",
+                "summary": "An air-fuel ratio control system calculates a basic injection amount of fuel by state detecting sensors (21) and air-amount detecting sensors. A neuro-computation unit (29) reads values of the data detected by the sensors and the stored data to obtain an air- fuel ratio estimate to calculate",
+                "score": 61.99652358033927,
+                "pca_embedding": "[-0.819018979510973, -0.39791199201852895, -0.6914232131847817, 0.396447210990851, -0.18758669810753342]",
+                "tsne_embedding": "[-65.92691040039062, -19.73975372314453]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "1999-06-29",
+                "patent_number": 5915368,
+                "patent_title": "Air/fuel ratio control apparatus that uses a neural network",
+                "patent_abstract": "An air/fuel ratio control apparatus for executing auxiliary control of an air/fuel ratio by compensating an injected fuel amount set by a control system for maintaining the air/fuel ratio at a preset value. The air/fuel ratio control apparatus includes a state detecting unit for detecting a plurality of physical values which can be measured at low temperature and which show a state of an engine, an air/fuel ratio estimating unit for receiving a plurality of physical values detected by the state detecting means as input parameters and for estimating the air/fuel ratio using a neural network, and a compensatory fuel amount calculating unit for calculating a compensatory fuel amount for the injected fuel amount from the estimated air/fuel ratio. Here, low temperature refers to a temperature at which an air/fuel sensor cannot operate.",
+                "summary": "Air/fuel ratio control apparatus includes a state detecting unit for detecting a plurality of physical values which can be measured at low temperature. It also includes an air/fuel ratios estimating unit for receiving the state detecting means as input parameters and for estimating the air/ fuel ratio.",
+                "score": 73.18169828341343,
+                "pca_embedding": "[-0.7833674086336998, -0.2827650691975537, -0.9637464802395492, 0.6311720803538964, -0.033203360841242056]",
+                "tsne_embedding": "[-65.95830535888672, -19.770647048950195]",
+                "cluster": "3"
+            },
+            {
+                "patent_date": "2008-06-10",
+                "patent_number": 7386388,
+                "patent_title": "Air-fuel ratio control system and method for internal combustion engine, and engine control unit",
+                "patent_abstract": "An air-fuel ratio control system for an internal combustion engine, which is capable of accurately estimating an exhaust gas state parameter according to the properties of fuel, thereby making it possible to properly control the air-fuel ratio of a mixture. The air-fuel ratio control system 1 estimates an exhaust gas state parameter indicative of a state of exhaust gases, as an estimated exhaust gas state parameter (AF13 NN) by inputting a detected combustion state parameter (DCADLYIG) indicative of a combustion state of the mixture in the engine 3, and detected operating state parameters (NE, TW, PBA, IGLOG, TOUT) indicative of operating states of the engine 3, to a neural network (NN) configured as a network to which are input the combustion state parameter (DCADLYIG) and the operating state parameters (NE, TW, PBA, IGLOG, TOUT), and in which the exhaust gas state parameter is used as a teacher signal (step 1), and controls the air-fuel ratio based on the estimated exhaust gas state parameter (AF_NN) (steps 3, 4, and 24 to 28).",
+                "summary": "Air-fuel ratio control system 1 estimates an exhaust gas state parameter indicative of a state of exhaust gases. It controls the air-fuel ratios of a mixture based on the estimated exhaust gasState Parameter (AF_NN)",
+                "score": 74.85787049552891,
+                "pca_embedding": "[-0.6392418268810411, -0.30436014347652673, -0.8787545101798802, 1.2004053145044895, -0.2145902328833456]",
+                "tsne_embedding": "[-65.92606353759766, -19.52188491821289]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "2008-10-21",
+                "patent_number": 7440839,
+                "patent_title": "Method and associated device for sensing the air/fuel ratio of an internal combustion engine",
+                "patent_abstract": "A method of sensing the air/fuel ratio in a combustion chamber of an internal combustion engine that may be easily implemented by a respective low-cost device includes a pressure sensor and a learning machine that generates a sensing signal representing the air/fuel ratio by processing the waveform of the pressure in at least one cylinder of the engine. In practice, the learning machine extracts characteristic parameters of the waveform of the pressure and as a function of a certain number of them generates the sensing signal.",
+                "summary": "A pressure sensor and a learning machine generates a sensing signal representing the air/fuel ratio. The waveform of the pressure in at least one cylinder of the engine is processed by the machine.",
+                "score": 84.97798428844544,
+                "pca_embedding": "[-1.0092589939387608, -0.1455522804066414, 0.09764315582544934, 1.020233627962967, 0.3426122824149303]",
+                "tsne_embedding": "[-64.25841522216797, -18.296207427978516]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "2011-06-14",
+                "patent_number": 7962272,
+                "patent_title": "Method and associated device for sensing the air/fuel ratio of an internal combustion engine",
+                "patent_abstract": "A method of sensing the air/fuel ratio in a combustion chamber of an internal combustion engine that may be easily implemented by a respective low-cost device includes a pressure sensor and a learning machine that generates a sensing signal representing the air/fuel ratio by processing the waveform of the pressure in at least one cylinder of the engine. In practice, the learning machine extracts characteristic parameters of the waveform of the pressure and as a function of a certain number of them generates the sensing signal.",
+                "summary": "A pressure sensor and a learning machine generates a sensing signal representing the air/fuel ratio. The waveform of the pressure in at least one cylinder of the engine is processed by the machine.",
+                "score": 84.97798428844544,
+                "pca_embedding": "[-1.0092589939387608, -0.1455522804066414, 0.09764315582544934, 1.020233627962967, 0.3426122824149303]",
+                "tsne_embedding": "[-64.25841522216797, -18.296207427978516]",
+                "cluster": "1"
+            }
+        ],
+        "matches_euc": [
+            {
+                "patent_date": "1997-08-19",
+                "patent_number": 5657737,
+                "patent_title": "Air-fuel ratio control system",
+                "patent_abstract": "An air-fuel ratio control system which calculates a basic injection amount of fuel by state detecting sensors (21) each of which detects an operating state of an internal combustion engine, air-amount detecting sensors (22) each of which detects an intake air amount, an air-fuel ratio sensor (23), and a predetermined data group. Further, the air-fuel ratio control system stores past amount data of injected fuel and air-fuel ratio data at each control cycle. A neuro-computation unit (29) reads values of the data detected by the sensors (21,22) and the stored data to obtain an air-fuel ratio estimate to calculate a correction injection amount of fuel by a neural network of a forward neuro-computing unit (210), which has learned beforehand about relations of the injected fuel amount, the detected air-fuel ratio, parameters, and dead time.",
+                "summary": "An air-fuel ratio control system calculates a basic injection amount of fuel by state detecting sensors (21) and air-amount detecting sensors. A neuro-computation unit (29) reads values of the data detected by the sensors and the stored data to obtain an air- fuel ratio estimate to calculate",
+                "score": 2.821903154742981,
+                "pca_embedding": "[-0.819018979510973, -0.39791199201852895, -0.6914232131847817, 0.396447210990851, -0.18758669810753342]",
+                "tsne_embedding": "[-65.92691040039062, -19.73975372314453]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "1999-06-29",
+                "patent_number": 5915368,
+                "patent_title": "Air/fuel ratio control apparatus that uses a neural network",
+                "patent_abstract": "An air/fuel ratio control apparatus for executing auxiliary control of an air/fuel ratio by compensating an injected fuel amount set by a control system for maintaining the air/fuel ratio at a preset value. The air/fuel ratio control apparatus includes a state detecting unit for detecting a plurality of physical values which can be measured at low temperature and which show a state of an engine, an air/fuel ratio estimating unit for receiving a plurality of physical values detected by the state detecting means as input parameters and for estimating the air/fuel ratio using a neural network, and a compensatory fuel amount calculating unit for calculating a compensatory fuel amount for the injected fuel amount from the estimated air/fuel ratio. Here, low temperature refers to a temperature at which an air/fuel sensor cannot operate.",
+                "summary": "Air/fuel ratio control apparatus includes a state detecting unit for detecting a plurality of physical values which can be measured at low temperature. It also includes an air/fuel ratios estimating unit for receiving the state detecting means as input parameters and for estimating the air/ fuel ratio.",
+                "score": 3.2577425101382964,
+                "pca_embedding": "[-0.7833674086336998, -0.2827650691975537, -0.9637464802395492, 0.6311720803538964, -0.033203360841242056]",
+                "tsne_embedding": "[-65.95830535888672, -19.770647048950195]",
+                "cluster": "3"
+            },
+            {
+                "patent_date": "2008-06-10",
+                "patent_number": 7386388,
+                "patent_title": "Air-fuel ratio control system and method for internal combustion engine, and engine control unit",
+                "patent_abstract": "An air-fuel ratio control system for an internal combustion engine, which is capable of accurately estimating an exhaust gas state parameter according to the properties of fuel, thereby making it possible to properly control the air-fuel ratio of a mixture. The air-fuel ratio control system 1 estimates an exhaust gas state parameter indicative of a state of exhaust gases, as an estimated exhaust gas state parameter (AF13 NN) by inputting a detected combustion state parameter (DCADLYIG) indicative of a combustion state of the mixture in the engine 3, and detected operating state parameters (NE, TW, PBA, IGLOG, TOUT) indicative of operating states of the engine 3, to a neural network (NN) configured as a network to which are input the combustion state parameter (DCADLYIG) and the operating state parameters (NE, TW, PBA, IGLOG, TOUT), and in which the exhaust gas state parameter is used as a teacher signal (step 1), and controls the air-fuel ratio based on the estimated exhaust gas state parameter (AF_NN) (steps 3, 4, and 24 to 28).",
+                "summary": "Air-fuel ratio control system 1 estimates an exhaust gas state parameter indicative of a state of exhaust gases. It controls the air-fuel ratios of a mixture based on the estimated exhaust gasState Parameter (AF_NN)",
+                "score": 3.398058117696909,
+                "pca_embedding": "[-0.6392418268810411, -0.30436014347652673, -0.8787545101798802, 1.2004053145044895, -0.2145902328833456]",
+                "tsne_embedding": "[-65.92606353759766, -19.52188491821289]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "2012-03-06",
+                "patent_number": 8131450,
+                "patent_title": "Method and associated device for sensing the air/fuel ratio of an internal combustion engine",
+                "patent_abstract": "A method of sensing the air/fuel ratio in a combustion chamber of an internal combustion engine that may be easily implemented by a respective low-cost device includes a pressure sensor and a learning machine that generates a sensing signal representing the air/fuel ratio by processing the waveform of the pressure in at least one cylinder of the engine. In practice, the learning machine extracts characteristic parameters of the waveform of the pressure and as a function of a certain number of them generates the sensing signal.",
+                "summary": "A pressure sensor and a learning machine generates a sensing signal representing the air/fuel ratio. The waveform of the pressure in at least one cylinder of the engine is processed by the machine.",
+                "score": 3.82089389190131,
+                "pca_embedding": "[-1.0092589939387608, -0.1455522804066414, 0.09764315582544934, 1.020233627962967, 0.3426122824149303]",
+                "tsne_embedding": "[-64.25841522216797, -18.296207427978516]",
+                "cluster": "1"
+            },
+            {
+                "patent_date": "2011-06-14",
+                "patent_number": 7962272,
+                "patent_title": "Method and associated device for sensing the air/fuel ratio of an internal combustion engine",
+                "patent_abstract": "A method of sensing the air/fuel ratio in a combustion chamber of an internal combustion engine that may be easily implemented by a respective low-cost device includes a pressure sensor and a learning machine that generates a sensing signal representing the air/fuel ratio by processing the waveform of the pressure in at least one cylinder of the engine. In practice, the learning machine extracts characteristic parameters of the waveform of the pressure and as a function of a certain number of them generates the sensing signal.",
+                "summary": "A pressure sensor and a learning machine generates a sensing signal representing the air/fuel ratio. The waveform of the pressure in at least one cylinder of the engine is processed by the machine.",
+                "score": 3.82089389190131,
+                "pca_embedding": "[-1.0092589939387608, -0.1455522804066414, 0.09764315582544934, 1.020233627962967, 0.3426122824149303]",
+                "tsne_embedding": "[-64.25841522216797, -18.296207427978516]",
+                "cluster": "1"
+            }
+        ]
+    },
+    "2000": {
+        "patent_date": "2007-08-14",
+        "patent_number": 7255062,
+        "patent_title": "Pseudo surface microwave produced plasma shielding system",
+        "patent_abstract": "A pseudo surface microwave produced plasma shielding system is a simple device that creates a prescribed plasma environment with a prescribed plasma density gradient, and protects an object surrounded by this environment as a shield. Pseudo surface microwaves interacting with an artificial intelligence equipped on board are used to create and to adjust this plasma environment for a particular application. This plasma environment provides potential capabilities of military applications of the plasma in the system. Examples of military applications include a stealth system from RADAR and SONAR, a protection system from WMD, and a weapon system to generate and launch plasmoids as a plasma gun. The scope of this invention extends to commercial applications of this plasma shielding system as a conditioned and controlled flow field, for example, a boundary layer and turbulence control system, and a lift control system to improve flight performance and flight economy of aircrafts. It further extends to develop a concept of a new type of engine using this plasma shielding system as a heating method alternative to the conventional combustion method that uses petroleum based fuel in the combustion chamber of an engine.",
+        "summary": "Pseudo surface microwaves interact with an artificial intelligence equipped on board. Military applications include a stealth system from RADAR and SONAR, a protection system from WMD.",
+        "pca_embedding": "[-1.277102964717784, -1.143009708882401, -0.34291453690571916, 0.34707800485597684, 0.3231849864350038]",
+        "tsne_embedding": "[-52.15807342529297, -5.763723373413086]",
+        "cluster": "4",
+        "matches_cos": [
+            {
+                "patent_date": "1998-11-24",
+                "patent_number": 5841651,
+                "patent_title": "Closed loop adaptive control of spectrum-producing step using neural networks",
+                "patent_abstract": "Characteristics of the plasma in a plasma-based manufacturing process step are monitored directly and in real time by observing the spectrum which it produces. An artificial neural network analyzes the plasma spectrum and generates control signals to control one or more of the process input parameters in response to any deviation of the spectrum beyond a narrow range. In an embodiment, a plasma reaction chamber forms a plasma in response to input parameters such as gas flow, pressure and power. The chamber includes a window through which the electromagnetic spectrum produced by a plasma in the chamber, just above the subject surface, may be viewed. The spectrum is conducted to an optical spectrometer which measures the intensity of the incoming optical spectrum at different wavelengths. The output of optical spectrometer is provided to an analyzer which produces a plurality of error signals, each indicating whether a respective one of the input parameters to the chamber is to be increased or decreased. The microcontroller provides signals to control respective controls, but these lines are intercepted and first added to the error signals, before being provided to the controls for the chamber. The analyzer can include a neural network and an optional spectrum preprocessor to reduce background noise, as well as a comparator which compares the parameter values predicted by the neural network with a set of desired values provided by the microcontroller.",
+                "summary": "An artificial neural network analyzes the plasma spectrum and generates control signals to control one or more of the process input parameters. The spectrum is conducted to an optical spectrometer which measures the intensity of the incoming optical spectrum at different wavelengths.",
+                "score": 0.4822369935193213,
+                "pca_embedding": "[-1.1121745237692933, -0.04932477363392656, -0.4416180059125081, 0.09929960799748444, 0.2408802005088076]",
+                "tsne_embedding": "[-54.9872932434082, -0.13839319348335266]",
+                "cluster": "3"
+            },
+            {
+                "patent_date": "2011-02-01",
+                "patent_number": 7878045,
+                "patent_title": "Apparatus and use of the apparatus for the determination of the density of a plasma",
+                "patent_abstract": "Device for determining the density of a plasma, with of a probe (1) which can be immersed into the plasma, with a probe head (2) in form of a three-axis ellipsoid, and a handle (3) connected to the probe head (2), wherein the probe head (2) has a sheath (4) and a probe core (5, 5a) surrounded by the sheath (4), wherein the surface (8) of the probe core (5, 5a) has electrode areas (9, 10) of opposite polarity which are insulated from each other. The probe core consists of electrodes (6, 7), to which a signal is applied. The absorption of that signal is measured and evaluated as a function of the frequency. Based on a multipole expansion, a mathematical model is constructed with which the absorption spectrum of the probe can be unambiguously evaluated. For a particular design of the probe, the response can be restricted to a single resonance, from which the electron density of the plasma (to be inferred from the resonance frequency) can be found by an unambiguous evaluation algorithm.",
+                "summary": "Device for determining the density of a plasma, with of a probe which can be immersed into the plasma. Probe has a probe head in form of a three-axis ellipsoid, and a handle connected to the probe head. Probe core consists of electrodes, to which a signal is applied. The",
+                "score": 0.4774712830249984,
+                "pca_embedding": "[-1.6763879537093944, -1.175089537914237, 0.19721001407727629, 0.4180526434431937, 0.6574016367405481]",
+                "tsne_embedding": "[-52.6793098449707, -4.782383441925049]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2020-04-07",
+                "patent_number": 10615009,
+                "patent_title": "System implementing machine learning in complex multivariate wafer processing equipment",
+                "patent_abstract": "A system for controlling processing state of a plasma process is provided. One example system includes a plasma reactor having a plurality of tuning knobs for making settings to operational conditions of the plasma reactor. A plurality of sensors of the plasma reactor is included, where each of the plurality of sensors is configured to produce a data stream of information during operation of the plasma reactor for carrying out the plasma process. A controller of the plasma reactor is configured to execute a multivariate processing that is configured to use as input desired processing state values that define intended measurable conditions within a processing environment of the plasma reactor and identify current plasma processing values. The multivariate processing uses a machine learning engine that receives as inputs the desired processing state values and data streams from the plurality of sensors during processing of the plasma process. The machine learning engine is configured to identify current processing state values used to produce a compensation vector, such that the compensation vector defines differences between the desired process state values and the current processing state values. The controller is further configured to execute a compensation processing operation that transforms the compensation vector expressed in terms of measured conditions within the processing environment to changes of specific one or more of the tuning knobs of the plasma reactor.",
+                "summary": "A system for controlling processing state of a plasma process is provided. One example system includes a plasma reactor having a plurality of tuning knobs for making settings to operational conditions of the plasma reactor. A plurality of sensors is included to produce a data stream of information during operation.",
+                "score": 0.4725073366933464,
+                "pca_embedding": "[-0.8249528233472508, -0.6924316144292396, -0.9785383469150127, 0.18970374146629113, -0.9053606318462248]",
+                "tsne_embedding": "[-77.39389038085938, -21.121051788330078]",
+                "cluster": "0"
+            },
+            {
+                "patent_date": "2010-09-21",
+                "patent_number": 7799661,
+                "patent_title": "Electrical sensor for real-time feedback control of plasma nitridation",
+                "patent_abstract": "A device (101) for controlling the treatment of a substrate (102) with a plasma (103) is provided which comprises (a) a plasma chamber (104) adapted to generate a plasma (103); (b) a sensor (113) equipped with first (115) and second (117) electrodes that are exposed to the plasma generated within the chamber, said sensor being adapted to (i) apply a first low frequency voltage V1 to the first electrode, (ii) apply a plurality of high frequency voltages V2 . . . Vn to the first electrode, where n≧2, and (iii) measure the respective currents I1 . . . In flowing through the second electrode during application of each of the voltages V1 . . . Vn, respectively; and (c) a data processing device (121) adapted to determine the densities of a plurality of ion species based on currents I1 . . . In and on a mathematical model or on calibration data relating to the plasma chamber.",
+                "summary": "A device (101) for controlling the treatment of a substrate (102) with a plasma (103) is provided. The device comprises a plasma chamber, a sensor and a data processing device.",
+                "score": 0.4483596406879224,
+                "pca_embedding": "[-1.528394270016755, -1.259379761056285, -0.28408365814340786, 0.6175527822931104, 0.6178391260707511]",
+                "tsne_embedding": "[-52.70232391357422, -4.759095191955566]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2018-01-02",
+                "patent_number": 9859028,
+                "patent_title": "Method of producing a Fresnel Zone Plate for applications in high energy radiation",
+                "patent_abstract": "The invention concerns to a method of producing a Fresnel Zone Plate (1) for applications in high energy radiation including the following steps: supply of a substrate (2) transparent for high energy radiation, deposition of a layer (3) of a metal, a metal alloy or a metal compound on a planar surface (4) of the substrate (2), calculating a three dimensional geometrical profile (5) with a mathematical model, setting up a dosage profile (6) for an ion beam of the ion beam lithography inverse to the calculated three dimensional geometrical profile (5) and milling a three dimensional geometrical profile (5) with concentric zones into the layer (3) with ion beam lithography by means of focused ion beam.",
+                "summary": "The invention concerns to a method of producing a Fresnel Zone Plate for applications in high energy radiation. The process includes deposition of a layer of a metal, a metal alloy or a metal compound on a planar surface of the substrate.",
+                "score": 0.4392242841861877,
+                "pca_embedding": "[-1.120699440677614, -1.085517333476654, 0.23595587571197904, 0.9072961223034804, 1.3824808798107144]",
+                "tsne_embedding": "[-40.784576416015625, -9.70992374420166]",
+                "cluster": "4"
+            }
+        ],
+        "matches_mnh": [
+            {
+                "patent_date": "2011-02-01",
+                "patent_number": 7878045,
+                "patent_title": "Apparatus and use of the apparatus for the determination of the density of a plasma",
+                "patent_abstract": "Device for determining the density of a plasma, with of a probe (1) which can be immersed into the plasma, with a probe head (2) in form of a three-axis ellipsoid, and a handle (3) connected to the probe head (2), wherein the probe head (2) has a sheath (4) and a probe core (5, 5a) surrounded by the sheath (4), wherein the surface (8) of the probe core (5, 5a) has electrode areas (9, 10) of opposite polarity which are insulated from each other. The probe core consists of electrodes (6, 7), to which a signal is applied. The absorption of that signal is measured and evaluated as a function of the frequency. Based on a multipole expansion, a mathematical model is constructed with which the absorption spectrum of the probe can be unambiguously evaluated. For a particular design of the probe, the response can be restricted to a single resonance, from which the electron density of the plasma (to be inferred from the resonance frequency) can be found by an unambiguous evaluation algorithm.",
+                "summary": "Device for determining the density of a plasma, with of a probe which can be immersed into the plasma. Probe has a probe head in form of a three-axis ellipsoid, and a handle connected to the probe head. Probe core consists of electrodes, to which a signal is applied. The",
+                "score": 106.51774842781016,
+                "pca_embedding": "[-1.6763879537093944, -1.175089537914237, 0.19721001407727629, 0.4180526434431937, 0.6574016367405481]",
+                "tsne_embedding": "[-52.6793098449707, -4.782383441925049]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1998-11-24",
+                "patent_number": 5841651,
+                "patent_title": "Closed loop adaptive control of spectrum-producing step using neural networks",
+                "patent_abstract": "Characteristics of the plasma in a plasma-based manufacturing process step are monitored directly and in real time by observing the spectrum which it produces. An artificial neural network analyzes the plasma spectrum and generates control signals to control one or more of the process input parameters in response to any deviation of the spectrum beyond a narrow range. In an embodiment, a plasma reaction chamber forms a plasma in response to input parameters such as gas flow, pressure and power. The chamber includes a window through which the electromagnetic spectrum produced by a plasma in the chamber, just above the subject surface, may be viewed. The spectrum is conducted to an optical spectrometer which measures the intensity of the incoming optical spectrum at different wavelengths. The output of optical spectrometer is provided to an analyzer which produces a plurality of error signals, each indicating whether a respective one of the input parameters to the chamber is to be increased or decreased. The microcontroller provides signals to control respective controls, but these lines are intercepted and first added to the error signals, before being provided to the controls for the chamber. The analyzer can include a neural network and an optional spectrum preprocessor to reduce background noise, as well as a comparator which compares the parameter values predicted by the neural network with a set of desired values provided by the microcontroller.",
+                "summary": "An artificial neural network analyzes the plasma spectrum and generates control signals to control one or more of the process input parameters. The spectrum is conducted to an optical spectrometer which measures the intensity of the incoming optical spectrum at different wavelengths.",
+                "score": 107.72325326700228,
+                "pca_embedding": "[-1.1121745237692933, -0.04932477363392656, -0.4416180059125081, 0.09929960799748444, 0.2408802005088076]",
+                "tsne_embedding": "[-54.9872932434082, -0.13839319348335266]",
+                "cluster": "3"
+            },
+            {
+                "patent_date": "2010-09-21",
+                "patent_number": 7799661,
+                "patent_title": "Electrical sensor for real-time feedback control of plasma nitridation",
+                "patent_abstract": "A device (101) for controlling the treatment of a substrate (102) with a plasma (103) is provided which comprises (a) a plasma chamber (104) adapted to generate a plasma (103); (b) a sensor (113) equipped with first (115) and second (117) electrodes that are exposed to the plasma generated within the chamber, said sensor being adapted to (i) apply a first low frequency voltage V1 to the first electrode, (ii) apply a plurality of high frequency voltages V2 . . . Vn to the first electrode, where n≧2, and (iii) measure the respective currents I1 . . . In flowing through the second electrode during application of each of the voltages V1 . . . Vn, respectively; and (c) a data processing device (121) adapted to determine the densities of a plurality of ion species based on currents I1 . . . In and on a mathematical model or on calibration data relating to the plasma chamber.",
+                "summary": "A device (101) for controlling the treatment of a substrate (102) with a plasma (103) is provided. The device comprises a plasma chamber, a sensor and a data processing device.",
+                "score": 110.40535048255695,
+                "pca_embedding": "[-1.528394270016755, -1.259379761056285, -0.28408365814340786, 0.6175527822931104, 0.6178391260707511]",
+                "tsne_embedding": "[-52.70232391357422, -4.759095191955566]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1978-02-14",
+                "patent_number": 4073712,
+                "patent_title": "Electrostatic water treatment",
+                "patent_abstract": "A reliable and efficient device for the treatment of liquid system, to inhibit scale formation, subjects the liquid to an electrostatic field and includes a pair of concentric cylindrical electrodes mounted one within the other with a dielectrically isolated flow passage therebetween. The outer surface of the inner electrode and the inner surface of the outer electrode each have a layer of electrical insulation thereon to severely limit current flow to and from the liquid, and a circuit is provided for continually applying D.C. potential to the electrodes. Dielectric fluid fittings connect the device into a liquid system. The dimensions of the inner and outer electrodes and the thickness of the insulation thereon are determined, according to the parameters of the liquid system and the chemistry of the liquid, from a mathematical model of the treating device as the equivalent of three capacitors connected in series.",
+                "summary": "Device uses a pair of concentric cylindrical electrodes mounted one within the other with a dielectrically isolated flow passage therebetween. The dimensions of the inner and outer electrodes and the thickness of the insulation thereon are determined, according to the parameters of the liquid system.",
+                "score": 110.8863131685648,
+                "pca_embedding": "[-1.3917564865777787, -0.7580530009336481, -0.33667281051004827, 0.6386497185935617, 1.1767595915268663]",
+                "tsne_embedding": "[-54.45924758911133, -9.310769081115723]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2018-01-02",
+                "patent_number": 9859028,
+                "patent_title": "Method of producing a Fresnel Zone Plate for applications in high energy radiation",
+                "patent_abstract": "The invention concerns to a method of producing a Fresnel Zone Plate (1) for applications in high energy radiation including the following steps: supply of a substrate (2) transparent for high energy radiation, deposition of a layer (3) of a metal, a metal alloy or a metal compound on a planar surface (4) of the substrate (2), calculating a three dimensional geometrical profile (5) with a mathematical model, setting up a dosage profile (6) for an ion beam of the ion beam lithography inverse to the calculated three dimensional geometrical profile (5) and milling a three dimensional geometrical profile (5) with concentric zones into the layer (3) with ion beam lithography by means of focused ion beam.",
+                "summary": "The invention concerns to a method of producing a Fresnel Zone Plate for applications in high energy radiation. The process includes deposition of a layer of a metal, a metal alloy or a metal compound on a planar surface of the substrate.",
+                "score": 111.29623533878475,
+                "pca_embedding": "[-1.120699440677614, -1.085517333476654, 0.23595587571197904, 0.9072961223034804, 1.3824808798107144]",
+                "tsne_embedding": "[-40.784576416015625, -9.70992374420166]",
+                "cluster": "4"
+            }
+        ],
+        "matches_euc": [
+            {
+                "patent_date": "2011-02-01",
+                "patent_number": 7878045,
+                "patent_title": "Apparatus and use of the apparatus for the determination of the density of a plasma",
+                "patent_abstract": "Device for determining the density of a plasma, with of a probe (1) which can be immersed into the plasma, with a probe head (2) in form of a three-axis ellipsoid, and a handle (3) connected to the probe head (2), wherein the probe head (2) has a sheath (4) and a probe core (5, 5a) surrounded by the sheath (4), wherein the surface (8) of the probe core (5, 5a) has electrode areas (9, 10) of opposite polarity which are insulated from each other. The probe core consists of electrodes (6, 7), to which a signal is applied. The absorption of that signal is measured and evaluated as a function of the frequency. Based on a multipole expansion, a mathematical model is constructed with which the absorption spectrum of the probe can be unambiguously evaluated. For a particular design of the probe, the response can be restricted to a single resonance, from which the electron density of the plasma (to be inferred from the resonance frequency) can be found by an unambiguous evaluation algorithm.",
+                "summary": "Device for determining the density of a plasma, with of a probe which can be immersed into the plasma. Probe has a probe head in form of a three-axis ellipsoid, and a handle connected to the probe head. Probe core consists of electrodes, to which a signal is applied. The",
+                "score": 4.842065389810486,
+                "pca_embedding": "[-1.6763879537093944, -1.175089537914237, 0.19721001407727629, 0.4180526434431937, 0.6574016367405481]",
+                "tsne_embedding": "[-52.6793098449707, -4.782383441925049]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1998-11-24",
+                "patent_number": 5841651,
+                "patent_title": "Closed loop adaptive control of spectrum-producing step using neural networks",
+                "patent_abstract": "Characteristics of the plasma in a plasma-based manufacturing process step are monitored directly and in real time by observing the spectrum which it produces. An artificial neural network analyzes the plasma spectrum and generates control signals to control one or more of the process input parameters in response to any deviation of the spectrum beyond a narrow range. In an embodiment, a plasma reaction chamber forms a plasma in response to input parameters such as gas flow, pressure and power. The chamber includes a window through which the electromagnetic spectrum produced by a plasma in the chamber, just above the subject surface, may be viewed. The spectrum is conducted to an optical spectrometer which measures the intensity of the incoming optical spectrum at different wavelengths. The output of optical spectrometer is provided to an analyzer which produces a plurality of error signals, each indicating whether a respective one of the input parameters to the chamber is to be increased or decreased. The microcontroller provides signals to control respective controls, but these lines are intercepted and first added to the error signals, before being provided to the controls for the chamber. The analyzer can include a neural network and an optional spectrum preprocessor to reduce background noise, as well as a comparator which compares the parameter values predicted by the neural network with a set of desired values provided by the microcontroller.",
+                "summary": "An artificial neural network analyzes the plasma spectrum and generates control signals to control one or more of the process input parameters. The spectrum is conducted to an optical spectrometer which measures the intensity of the incoming optical spectrum at different wavelengths.",
+                "score": 4.86416235886226,
+                "pca_embedding": "[-1.1121745237692933, -0.04932477363392656, -0.4416180059125081, 0.09929960799748444, 0.2408802005088076]",
+                "tsne_embedding": "[-54.9872932434082, -0.13839319348335266]",
+                "cluster": "3"
+            },
+            {
+                "patent_date": "2018-01-02",
+                "patent_number": 9859028,
+                "patent_title": "Method of producing a Fresnel Zone Plate for applications in high energy radiation",
+                "patent_abstract": "The invention concerns to a method of producing a Fresnel Zone Plate (1) for applications in high energy radiation including the following steps: supply of a substrate (2) transparent for high energy radiation, deposition of a layer (3) of a metal, a metal alloy or a metal compound on a planar surface (4) of the substrate (2), calculating a three dimensional geometrical profile (5) with a mathematical model, setting up a dosage profile (6) for an ion beam of the ion beam lithography inverse to the calculated three dimensional geometrical profile (5) and milling a three dimensional geometrical profile (5) with concentric zones into the layer (3) with ion beam lithography by means of focused ion beam.",
+                "summary": "The invention concerns to a method of producing a Fresnel Zone Plate for applications in high energy radiation. The process includes deposition of a layer of a metal, a metal alloy or a metal compound on a planar surface of the substrate.",
+                "score": 4.918248332281139,
+                "pca_embedding": "[-1.120699440677614, -1.085517333476654, 0.23595587571197904, 0.9072961223034804, 1.3824808798107144]",
+                "tsne_embedding": "[-40.784576416015625, -9.70992374420166]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "2010-09-21",
+                "patent_number": 7799661,
+                "patent_title": "Electrical sensor for real-time feedback control of plasma nitridation",
+                "patent_abstract": "A device (101) for controlling the treatment of a substrate (102) with a plasma (103) is provided which comprises (a) a plasma chamber (104) adapted to generate a plasma (103); (b) a sensor (113) equipped with first (115) and second (117) electrodes that are exposed to the plasma generated within the chamber, said sensor being adapted to (i) apply a first low frequency voltage V1 to the first electrode, (ii) apply a plurality of high frequency voltages V2 . . . Vn to the first electrode, where n≧2, and (iii) measure the respective currents I1 . . . In flowing through the second electrode during application of each of the voltages V1 . . . Vn, respectively; and (c) a data processing device (121) adapted to determine the densities of a plurality of ion species based on currents I1 . . . In and on a mathematical model or on calibration data relating to the plasma chamber.",
+                "summary": "A device (101) for controlling the treatment of a substrate (102) with a plasma (103) is provided. The device comprises a plasma chamber, a sensor and a data processing device.",
+                "score": 5.020630962852604,
+                "pca_embedding": "[-1.528394270016755, -1.259379761056285, -0.28408365814340786, 0.6175527822931104, 0.6178391260707511]",
+                "tsne_embedding": "[-52.70232391357422, -4.759095191955566]",
+                "cluster": "4"
+            },
+            {
+                "patent_date": "1978-02-14",
+                "patent_number": 4073712,
+                "patent_title": "Electrostatic water treatment",
+                "patent_abstract": "A reliable and efficient device for the treatment of liquid system, to inhibit scale formation, subjects the liquid to an electrostatic field and includes a pair of concentric cylindrical electrodes mounted one within the other with a dielectrically isolated flow passage therebetween. The outer surface of the inner electrode and the inner surface of the outer electrode each have a layer of electrical insulation thereon to severely limit current flow to and from the liquid, and a circuit is provided for continually applying D.C. potential to the electrodes. Dielectric fluid fittings connect the device into a liquid system. The dimensions of the inner and outer electrodes and the thickness of the insulation thereon are determined, according to the parameters of the liquid system and the chemistry of the liquid, from a mathematical model of the treating device as the equivalent of three capacitors connected in series.",
+                "summary": "Device uses a pair of concentric cylindrical electrodes mounted one within the other with a dielectrically isolated flow passage therebetween. The dimensions of the inner and outer electrodes and the thickness of the insulation thereon are determined, according to the parameters of the liquid system.",
+                "score": 5.03513683149356,
+                "pca_embedding": "[-1.3917564865777787, -0.7580530009336481, -0.33667281051004827, 0.6386497185935617, 1.1767595915268663]",
+                "tsne_embedding": "[-54.45924758911133, -9.310769081115723]",
+                "cluster": "4"
+            }
+        ]
+    },
+    "2010": {
+        "patent_date": "2013-06-25",
+        "patent_number": 8472860,
+        "patent_title": "Artificial intelligence software for grading of student problem-solving work",
+        "patent_abstract": "Described is a method using a computer for grading student work on a problem when the student's own steps are shown in detail. A reference trace is created representing a best solution path to the problem. A student trace of the student's own work is then created, which involves searching explicitly for a specific rationale for appending a step to the student trace; deeming the step a correct production provided the step was able to be reproduced and marking the step as traced; provisionally accepting the step as part of the best solution path subject to revocation if a better-quality step is later found by a step conflict check; implicitly tracing the student's work to discover implicitly taken mental steps provided the explicit tracing has failed to justify the step; appending any remaining untraced steps to the student trace and excluding them from the best solution path; computing a value of the steps in the student's work to form a student value; and, comparing the student value to a total value of the steps in the reference trace to obtain a score.",
+        "summary": "A student trace is used to grade student work on a problem. It involves searching explicitly for a specific rationale for appending a step to the student trace. It also involves implicitly tracing the student's work.",
+        "pca_embedding": "[0.9940923147909039, -0.7816526838181975, 0.2728468150942213, 1.1006727796859617, -0.002968628355704586]",
+        "tsne_embedding": "[30.984031677246094, 24.045005798339844]",
+        "cluster": "0",
+        "matches_cos": [
+            {
+                "patent_date": "1997-06-24",
+                "patent_number": 5642472,
+                "patent_title": "Software discovery system",
+                "patent_abstract": "Apparatus and methods which employ a machine learning system to \"learn\" the specification for a program from a trace of an execution of the program on a set of test problems. The program is instrumented to produce the trace. Performance is improved by means of a declarative bias which expresses knowledge of the user about the program and constrains the learning system to produce only specifications which are consistent with the declarative bias. The apparatus and methods of the preferred embodiment are employed to learn specifications of views in a data base for a telephone switching system from traces produced by executing the programs which produce the views. Techniques for producing more than one specification and for dealing with views which involve conversions are also disclosed.",
+                "summary": "Machine learning system to \"learn\" the specification for a program from a trace of an execution of the program on a set of test problems. Performance is improved by means of a declarative bias which expresses knowledge of the user.",
+                "score": 0.5746834275999305,
+                "pca_embedding": "[0.7361300551509258, -0.2345679733527491, -0.4080043167231552, 0.8655967803198227, 0.2076689242823024]",
+                "tsne_embedding": "[17.292020797729492, -8.47502326965332]",
+                "cluster": "5"
+            },
+            {
+                "patent_date": "2020-11-24",
+                "patent_number": 10846109,
+                "patent_title": "Suggesting actions based on machine learning",
+                "patent_abstract": "This document describes techniques for suggesting actions based on machine learning. These techniques determine a task that a user desires to perform, and presents a user interface through which to perform the task. To determine this task, the techniques can analyze content displayed on the user device or analyze contexts of the user and user device. With this determined task, the techniques determine an action that may assist the user in performing the task. This action is further determined to be performable through analysis of functionalities of an application, which may or may not be executing or installed on the user device. With some subset of the application's functionalities determined, the techniques presents the subset of functionalities via the user interface. By so doing, the techniques enable a user to complete a task more easily, quickly, or using fewer computing resources.",
+                "summary": "This document describes techniques for suggesting actions based on machine learning. These techniques determine a task that a user desires to perform, and presents a user interface through which to perform the task. The techniques enable a user to complete a task more easily, quickly, or using fewer computing resources.",
+                "score": 0.5642695244865843,
+                "pca_embedding": "[-0.5649635439268911, 0.5409903015565136, -1.276258701759783, -0.6111438070483204, -0.9030814997297447]",
+                "tsne_embedding": "[-34.628822326660156, 31.68079376220703]",
+                "cluster": "5"
+            },
+            {
+                "patent_date": "2018-04-17",
+                "patent_number": 9946924,
+                "patent_title": "System and method for automating information abstraction process for documents",
+                "patent_abstract": "A computer-implemented method, a processing pipeline and a system create a hierarchical semantic map of a document and extracted information. The method includes apportioning the document into major sections by accessing the document, recognizing a hierarchical structure of the document, and dividing the document into the major sections by using a data profiler and a machine learning module, classifying the major sections, and mapping the major sections to key elements in one of the multiple levels, searching one major section, and identifying sub-sections from the one major section to achieve a maximum confidence score indicates that the sub-sections associate with the key element, extracting the information from the identified sub-sections by using sequence modelers and linguistic characteristics provided by the data profiler, generating the hierarchical semantic map of the document by using the extracted information, and displaying in a user interface drop down selections of the key elements.",
+                "summary": "A computer-implemented method, a processing pipeline and a system create a hierarchical semantic map of a document and extracted information. The method includes apportioning the document into major sections by accessing the document.",
+                "score": 0.5639286474504283,
+                "pca_embedding": "[1.1893963023719147, 0.3034944341827586, 0.6361257673440818, 0.374148586896461, -0.15104448940563778]",
+                "tsne_embedding": "[37.82731628417969, 19.26374626159668]",
+                "cluster": "8"
+            },
+            {
+                "patent_date": "2020-03-24",
+                "patent_number": 10599731,
+                "patent_title": "Method and system of determining categories associated with keywords using a trained model",
+                "patent_abstract": "Described is a technique for associating words used in a search query with categories. This technique aims to produce potentially more relevant search results by improving the associations with words used for a search. A machine learning technique is implemented to train a classification model, which may include a word embedding model. The classification model is trained to receive words as input and to create vectors of the words as output. These word vectors may then be mapped to a vector space and the technique may then perform a cluster analysis of the vectors. Based on the cluster analysis, clusters may be identified and each cluster may be associated with a corresponding category.",
+                "summary": "Machine learning technique is implemented to train a classification model, which may include a word embedding model. The classification model is trained to receive words as input and to create vectors of the words as output. These word vectors may then be mapped to a vector space and the technique may then perform a cluster analysis of",
+                "score": 0.5619899878509713,
+                "pca_embedding": "[1.7574254749284974, 0.950008354316084, 0.2091478150063375, 0.6836062469002698, 0.1019325042870372]",
+                "tsne_embedding": "[25.270851135253906, 15.47049331665039]",
+                "cluster": "7"
+            },
+            {
+                "patent_date": "2003-02-11",
+                "patent_number": 6519580,
+                "patent_title": "Decision-tree-based symbolic rule induction system for text categorization",
+                "patent_abstract": "A method to automatically categorize messages or documents containing text. The method of solution fits in the general framework of supervised learning, in which a rule or rules for categorizing data is automatically constructed by a computer on the basis of training data that has beforehand been categorized, i.e., each training data item has been labeled with the categories to which it belongs. More specifically, the method for rule induction involves the novel combination of (1) inducing from the training data a decision tree for each category, (2) automated construction from each decision tree of a simplified symbolic rule set that is logically equivalent overall to the decision tree, and which is to be used for categorization instead of the decision tree, and (3) determination of a confidence level for each rule. The method covers both decision-tree-based symbolic rule induction and the use for the purpose of document categorization of rules in the logical format of those generated by the rule induction procedure described herein.",
+                "summary": "A method to automatically categorize messages or documents containing text. The method of solution fits in the general framework of supervised learning.",
+                "score": 0.5615209804500669,
+                "pca_embedding": "[1.7148782642516414, 0.6813551414990082, 0.06219554804287658, 1.299212745184193, -0.05592733778875681]",
+                "tsne_embedding": "[19.012664794921875, 30.56064796447754]",
+                "cluster": "8"
+            }
+        ],
+        "matches_mnh": [
+            {
+                "patent_date": "2017-03-14",
+                "patent_number": 9594905,
+                "patent_title": "Framework for efficient security coverage of mobile software applications using machine learning",
+                "patent_abstract": "For one embodiment, a method is described that involves the instrumenting of an application of a computing system with at least one monitoring function, where the monitoring function is capable of operating in a run-time environment during processing of the instrumented application. The movement of data associated with the application is tracked by one or more monitoring functions. This data is at least partially identified by a storage location. Thereafter, a determination is made whether movement of the data from a first storage location to a second storage location is suspicious, and if so, suspicious movement of the data is reported.",
+                "summary": "The method involves the instrumenting of an application of a computing system with at least one monitoring function. The movement of data associated with the application is tracked by one or more monitoring functions.",
+                "score": 97.5256107657042,
+                "pca_embedding": "[0.04229699320611362, -1.1513447037019946, 0.27556863931253145, 0.6900608636915566, -0.4240169507969845]",
+                "tsne_embedding": "[10.815878868103027, -31.842283248901367]",
+                "cluster": "5"
+            },
+            {
+                "patent_date": "1997-06-24",
+                "patent_number": 5642472,
+                "patent_title": "Software discovery system",
+                "patent_abstract": "Apparatus and methods which employ a machine learning system to \"learn\" the specification for a program from a trace of an execution of the program on a set of test problems. The program is instrumented to produce the trace. Performance is improved by means of a declarative bias which expresses knowledge of the user about the program and constrains the learning system to produce only specifications which are consistent with the declarative bias. The apparatus and methods of the preferred embodiment are employed to learn specifications of views in a data base for a telephone switching system from traces produced by executing the programs which produce the views. Techniques for producing more than one specification and for dealing with views which involve conversions are also disclosed.",
+                "summary": "Machine learning system to \"learn\" the specification for a program from a trace of an execution of the program on a set of test problems. Performance is improved by means of a declarative bias which expresses knowledge of the user.",
+                "score": 97.75934884126764,
+                "pca_embedding": "[0.7361300551509258, -0.2345679733527491, -0.4080043167231552, 0.8655967803198227, 0.2076689242823024]",
+                "tsne_embedding": "[17.292020797729492, -8.47502326965332]",
+                "cluster": "5"
+            },
+            {
+                "patent_date": "2018-04-17",
+                "patent_number": 9946924,
+                "patent_title": "System and method for automating information abstraction process for documents",
+                "patent_abstract": "A computer-implemented method, a processing pipeline and a system create a hierarchical semantic map of a document and extracted information. The method includes apportioning the document into major sections by accessing the document, recognizing a hierarchical structure of the document, and dividing the document into the major sections by using a data profiler and a machine learning module, classifying the major sections, and mapping the major sections to key elements in one of the multiple levels, searching one major section, and identifying sub-sections from the one major section to achieve a maximum confidence score indicates that the sub-sections associate with the key element, extracting the information from the identified sub-sections by using sequence modelers and linguistic characteristics provided by the data profiler, generating the hierarchical semantic map of the document by using the extracted information, and displaying in a user interface drop down selections of the key elements.",
+                "summary": "A computer-implemented method, a processing pipeline and a system create a hierarchical semantic map of a document and extracted information. The method includes apportioning the document into major sections by accessing the document.",
+                "score": 97.98426138027573,
+                "pca_embedding": "[1.1893963023719147, 0.3034944341827586, 0.6361257673440818, 0.374148586896461, -0.15104448940563778]",
+                "tsne_embedding": "[37.82731628417969, 19.26374626159668]",
+                "cluster": "8"
+            },
+            {
+                "patent_date": "1984-01-10",
+                "patent_number": 4425099,
+                "patent_title": "Educational aid for use with workbook",
+                "patent_abstract": "An educational learning aid which obtains its procedural data via bar code or other indicia imprinted on the edge of detachable work book sheets. The aid holds the detachable sheet over a touch sensitive array of switches so that touching or marking of the sheet is sensed by the underlying switches in the aid. The correct content of the answers is communicated to the aid by a bar code or machine readable section either on a work sheet or on a second sheet. In this fashion the operator responds to printed material on the sheet and is verbally reinforced by the learning aid for correct answers. Preferably a running tally of the operator's correct responses is kept and he is informed at the end of the exercise of his score. This score is optionally printed upon the paper upon completion of the exercise.",
+                "summary": "The learning aid obtains its procedural data via bar code or other indicia imprinted on the edge of detachable work book sheets. The correct content of the answers is communicated to the aid by a bar code.",
+                "score": 98.73906454257668,
+                "pca_embedding": "[0.6112948708964941, -0.35263217872320984, 0.2473417534727151, -0.22814298463829083, 0.6512871333303549]",
+                "tsne_embedding": "[32.27166748046875, 25.682693481445312]",
+                "cluster": "7"
+            },
+            {
+                "patent_date": "2019-09-03",
+                "patent_number": 10402751,
+                "patent_title": "Document analysis system that uses machine learning to predict subject matter evolution of document content",
+                "patent_abstract": "A method includes performing, by a processor: receiving a document containing subject matter related to a course of action, the document comprising a plurality of sub-documents that are related to one another in a time sequence, converting the document to a vector format to generate a vectorized document that encodes a probability distribution of words in the document and transition probabilities between words, applying a machine learning algorithm to the vectorized document to generate an estimated vectorized document, associating the estimated vectorized document with a reference document; predicting future subject matter contained in a future sub-document of the document based on the reference document, and adjusting the course of action responsive to predicting the future subject matter.",
+                "summary": "A method includes performing, by a processor: receiving a document containing subject matter related to a course of action. The document comprising a plurality of sub-documents that are related to one another in a time sequence. converting the document to a vector format to generate a vectorized document. applying a machine learning",
+                "score": 100.83336768078152,
+                "pca_embedding": "[1.0370874195461335, 0.2184373397007836, 0.5266638744911839, 0.6364373934064671, -0.09952157546967379]",
+                "tsne_embedding": "[37.63248062133789, 19.180538177490234]",
+                "cluster": "8"
+            }
+        ],
+        "matches_euc": [
+            {
+                "patent_date": "1997-06-24",
+                "patent_number": 5642472,
+                "patent_title": "Software discovery system",
+                "patent_abstract": "Apparatus and methods which employ a machine learning system to \"learn\" the specification for a program from a trace of an execution of the program on a set of test problems. The program is instrumented to produce the trace. Performance is improved by means of a declarative bias which expresses knowledge of the user about the program and constrains the learning system to produce only specifications which are consistent with the declarative bias. The apparatus and methods of the preferred embodiment are employed to learn specifications of views in a data base for a telephone switching system from traces produced by executing the programs which produce the views. Techniques for producing more than one specification and for dealing with views which involve conversions are also disclosed.",
+                "summary": "Machine learning system to \"learn\" the specification for a program from a trace of an execution of the program on a set of test problems. Performance is improved by means of a declarative bias which expresses knowledge of the user.",
+                "score": 4.384894765463613,
+                "pca_embedding": "[0.7361300551509258, -0.2345679733527491, -0.4080043167231552, 0.8655967803198227, 0.2076689242823024]",
+                "tsne_embedding": "[17.292020797729492, -8.47502326965332]",
+                "cluster": "5"
+            },
+            {
+                "patent_date": "1984-01-10",
+                "patent_number": 4425099,
+                "patent_title": "Educational aid for use with workbook",
+                "patent_abstract": "An educational learning aid which obtains its procedural data via bar code or other indicia imprinted on the edge of detachable work book sheets. The aid holds the detachable sheet over a touch sensitive array of switches so that touching or marking of the sheet is sensed by the underlying switches in the aid. The correct content of the answers is communicated to the aid by a bar code or machine readable section either on a work sheet or on a second sheet. In this fashion the operator responds to printed material on the sheet and is verbally reinforced by the learning aid for correct answers. Preferably a running tally of the operator's correct responses is kept and he is informed at the end of the exercise of his score. This score is optionally printed upon the paper upon completion of the exercise.",
+                "summary": "The learning aid obtains its procedural data via bar code or other indicia imprinted on the edge of detachable work book sheets. The correct content of the answers is communicated to the aid by a bar code.",
+                "score": 4.462938175335145,
+                "pca_embedding": "[0.6112948708964941, -0.35263217872320984, 0.2473417534727151, -0.22814298463829083, 0.6512871333303549]",
+                "tsne_embedding": "[32.27166748046875, 25.682693481445312]",
+                "cluster": "7"
+            },
+            {
+                "patent_date": "2018-04-17",
+                "patent_number": 9946924,
+                "patent_title": "System and method for automating information abstraction process for documents",
+                "patent_abstract": "A computer-implemented method, a processing pipeline and a system create a hierarchical semantic map of a document and extracted information. The method includes apportioning the document into major sections by accessing the document, recognizing a hierarchical structure of the document, and dividing the document into the major sections by using a data profiler and a machine learning module, classifying the major sections, and mapping the major sections to key elements in one of the multiple levels, searching one major section, and identifying sub-sections from the one major section to achieve a maximum confidence score indicates that the sub-sections associate with the key element, extracting the information from the identified sub-sections by using sequence modelers and linguistic characteristics provided by the data profiler, generating the hierarchical semantic map of the document by using the extracted information, and displaying in a user interface drop down selections of the key elements.",
+                "summary": "A computer-implemented method, a processing pipeline and a system create a hierarchical semantic map of a document and extracted information. The method includes apportioning the document into major sections by accessing the document.",
+                "score": 4.485912656643825,
+                "pca_embedding": "[1.1893963023719147, 0.3034944341827586, 0.6361257673440818, 0.374148586896461, -0.15104448940563778]",
+                "tsne_embedding": "[37.82731628417969, 19.26374626159668]",
+                "cluster": "8"
+            },
+            {
+                "patent_date": "2017-03-14",
+                "patent_number": 9594905,
+                "patent_title": "Framework for efficient security coverage of mobile software applications using machine learning",
+                "patent_abstract": "For one embodiment, a method is described that involves the instrumenting of an application of a computing system with at least one monitoring function, where the monitoring function is capable of operating in a run-time environment during processing of the instrumented application. The movement of data associated with the application is tracked by one or more monitoring functions. This data is at least partially identified by a storage location. Thereafter, a determination is made whether movement of the data from a first storage location to a second storage location is suspicious, and if so, suspicious movement of the data is reported.",
+                "summary": "The method involves the instrumenting of an application of a computing system with at least one monitoring function. The movement of data associated with the application is tracked by one or more monitoring functions.",
+                "score": 4.531351389697412,
+                "pca_embedding": "[0.04229699320611362, -1.1513447037019946, 0.27556863931253145, 0.6900608636915566, -0.4240169507969845]",
+                "tsne_embedding": "[10.815878868103027, -31.842283248901367]",
+                "cluster": "5"
+            },
+            {
+                "patent_date": "2020-11-24",
+                "patent_number": 10846109,
+                "patent_title": "Suggesting actions based on machine learning",
+                "patent_abstract": "This document describes techniques for suggesting actions based on machine learning. These techniques determine a task that a user desires to perform, and presents a user interface through which to perform the task. To determine this task, the techniques can analyze content displayed on the user device or analyze contexts of the user and user device. With this determined task, the techniques determine an action that may assist the user in performing the task. This action is further determined to be performable through analysis of functionalities of an application, which may or may not be executing or installed on the user device. With some subset of the application's functionalities determined, the techniques presents the subset of functionalities via the user interface. By so doing, the techniques enable a user to complete a task more easily, quickly, or using fewer computing resources.",
+                "summary": "This document describes techniques for suggesting actions based on machine learning. These techniques determine a task that a user desires to perform, and presents a user interface through which to perform the task. The techniques enable a user to complete a task more easily, quickly, or using fewer computing resources.",
+                "score": 4.562919872861996,
+                "pca_embedding": "[-0.5649635439268911, 0.5409903015565136, -1.276258701759783, -0.6111438070483204, -0.9030814997297447]",
+                "tsne_embedding": "[-34.628822326660156, 31.68079376220703]",
+                "cluster": "5"
+            }
+        ]
+    },
+    "2020": {
+        "patent_date": "2020-09-29",
+        "patent_number": 10789280,
+        "patent_title": "Identification and curation of application programming interface data from different sources",
+        "patent_abstract": "A method in one embodiment comprises receiving as inputs a plurality of application programming interface (API) documents respectively configured as electronic files, analyzing the electronic files via a first classifier to determine whether one or more schema types are present in the electronic files, generating a first classification based on the schema types for the electronic files determined to include the schema types, analyzing the electronic files via a second classifier for the electronic files determined not to include the schema types, wherein the analyzing via the second classifier is performed using one or more predictive classifiers generated via one or more machine learning techniques, generating a second classification based on the predictive classifiers for the electronic files determined not to include the schema types, and outputting a plurality of classified API documents based on the first and second classifications.",
+        "summary": "A method in one embodiment comprises receiving as inputs a plurality of application programming interface (API) documents respectively configured as electronic files. The analyzing via the second classifier is performed using one or more predictive classifiers.",
+        "pca_embedding": "[0.12423052404615614, -0.7977449292279225, 0.9023274440534204, -0.7139610472081055, -0.7955449265766688]",
+        "tsne_embedding": "[2.0686557292938232, -34.547611236572266]",
+        "cluster": "9",
+        "matches_cos": [
+            {
+                "patent_date": "2017-09-26",
+                "patent_number": 9772871,
+                "patent_title": "Apparatus and method for leveraging semi-supervised machine learning for self-adjusting policies in management of a computer infrastructure",
+                "patent_abstract": "Embodiments relate to a method for managing and analyzing a computer environment. The method includes receiving, by the host device, a set of data elements from at least one computer environment resource of the computer infrastructure, each data element of the set of data elements relating to an attribute of the at least one computer environment resource. The method includes applying a system analysis function to the set of data elements to characterize a dataset specification associated with the set of data elements. The method includes receiving, by the host device, a user-selected policy threshold criterion based on the dataset specification and providing the user-selected policy threshold criterion to the semi-supervised learning algorithm as a parameter. The method includes adjusting a boundary of the dataset specification of the set of data elements, as associated with the user-selected policy threshold criterion, based on a behavioral change of the computer infrastructure.",
+                "summary": "The method includes receiving, by the host device, a set of data elements from at least one computer environment resource of the computer infrastructure. The method includes applying a system analysis function to the set ofData elements to characterize a dataset specification associated with the data elements. It also includes adjusting a boundary of the dataset",
+                "score": 0.7256423812943676,
+                "pca_embedding": "[1.4347003433374248, -0.8640384023522388, 0.09442560616343418, 0.6375560665010003, -0.14873684435190446]",
+                "tsne_embedding": "[49.02244567871094, -21.327348709106445]",
+                "cluster": "0"
+            },
+            {
+                "patent_date": "2019-10-01",
+                "patent_number": 10432749,
+                "patent_title": "Application bookmarks and recommendations",
+                "patent_abstract": "In one embodiment, a method includes one or more computing devices identifying multiple applications associated with a social-networking system based at least in part on social-networking information for a user associated with the social-networking system. The method also includes calculating, using a machine-learning model and for each of the identified applications, a score based at least in part on a click-through probability that the user will interact with the application upon display of a selectable representation associated with the application, where the machine-learning model is based at least in part on one or more features associated with the user or the application. The method also includes sending, to a client device of the user for display, information to present a selectable representation associated with each of one or more of the identified applications based at least in part on the score for the application.",
+                "summary": "In one embodiment, a method includes one or more computing devices identifying multiple applications associated with a social-networking system. The method also includes calculating, using a machine-learning model, a score based at least in part on a click-through probability that the user will interact with the application.",
+                "score": 0.7212549117471868,
+                "pca_embedding": "[0.9396885745988294, -0.485697949874141, -0.10978741893220569, 0.8148442231504696, -0.28663278180719715]",
+                "tsne_embedding": "[46.55922317504883, -18.291685104370117]",
+                "cluster": "7"
+            },
+            {
+                "patent_date": "2020-10-27",
+                "patent_number": 10817314,
+                "patent_title": "Augmented shareable video files for robotic process automation",
+                "patent_abstract": "In one general aspect, in an embodiment, a method of performance-enhanced machine-learning model creation is performed by a computer system. The method includes receiving a command to record user interface (UI) activity in a computing environment. The method further includes, responsive to the command: receiving video frames of a live screen output of the computing environment; detecting UI events in the computing environment in relation to the video frames of the live screen output; and determining target applications for the UI events, wherein the target applications are executing in the computing environment. The method also includes generating UI metadata comprising information identifying the UI events and the target applications in relation to the video frames. In addition, the method includes sequentially encoding, in a video file, the video frames together with information sufficient to derive the UI metadata.",
+                "summary": "The method includes receiving a command to record user interface (UI) activity in a computing environment. The method also includes generating UI metadata comprising information identifying the UI events.",
+                "score": 0.7181974185638865,
+                "pca_embedding": "[-0.8177113863119764, -0.8252987883558139, 0.27386277441547396, -0.13556511816643987, -1.2398619157191089]",
+                "tsne_embedding": "[-3.396458148956299, -25.970157623291016]",
+                "cluster": "0"
+            },
+            {
+                "patent_date": "2020-09-01",
+                "patent_number": 10761841,
+                "patent_title": "Systems and methods for identifying source code from binaries using machine learning",
+                "patent_abstract": "System, methods, and other embodiments described herein relate to an improved approach to reverse engineering binary code through the use of machine learning and image processing. In one embodiment, a method includes, in response to receiving, as an electronic input, a code segment of code that is represented in a binary format, transforming the segment into an image to visually represent the binary format of the segment. The method includes generating, as an electronic output from a classifier, a segment indicator that is based, at least in part, on the image and that specifies source code corresponding to the segment in order to reverse engineer the segment into the source code using the classifier.",
+                "summary": "System, methods, and other embodiments described herein relate to an improved approach to reverse engineering binary code through the use of machine learning and image processing. In one embodiment, a method includes, in response to receiving, as an electronic input, a code segment of code, transforming the segment into an image.",
+                "score": 0.7165827726646147,
+                "pca_embedding": "[0.7290346553889671, -0.5771542955564993, 0.21087376526660775, 0.9132802450892996, 0.5160040908034056]",
+                "tsne_embedding": "[48.35350036621094, -20.728391647338867]",
+                "cluster": "8"
+            },
+            {
+                "patent_date": "2020-12-01",
+                "patent_number": 10854206,
+                "patent_title": "Identifying users through conversations for assistant systems",
+                "patent_abstract": "In one embodiment, a method includes receiving from a client system a user request from a first user, determining a necessity for resolving the first user to a known entity to execute one or more tasks associated with the user request based on privacy restrictions associated with the user request, determining a set of candidate entities for the first user based on one or more machine-learning models, each candidate entity being associated with a respective confidence score greater than a threshold score, sending instructions for prompting the first user to select a candidate entity from the set of candidate entities, resolving the first user to a selected candidate entity responsive to receiving a selection from the first user, and executing the one or more tasks associated with the user request based on a user profile associated with the selected candidate entity.",
+                "summary": "In one embodiment, a method includes receiving from a client system a user request from a first user. The first user is then asked to execute one or more tasks associated with the user request.",
+                "score": 0.7119562601521326,
+                "pca_embedding": "[1.0078964047521788, -1.0470213220886189, -0.08741300625332031, -0.019011669352164744, 0.6553794643287095]",
+                "tsne_embedding": "[41.92616271972656, -22.151321411132812]",
+                "cluster": "8"
+            }
+        ],
+        "matches_mnh": [
+            {
+                "patent_date": "2020-06-16",
+                "patent_number": 10685292,
+                "patent_title": "Similarity-based retrieval of software investigation log sets for accelerated software deployment",
+                "patent_abstract": "A method in one embodiment comprises extracting features from each of a plurality of software investigation log sets, generating representations for respective ones of the software investigation log sets based at least in part on the corresponding extracted features, and storing the representations in a knowledge base. In conjunction with obtaining at least one additional software investigation log set, the method generates a representation of the additional software investigation log set, identifies one or more of the representations previously stored in the knowledge base that exhibit at least a specified similarity to the representation of the additional software investigation log set in accordance with one or more statistical models, and presents information characterizing the one or more software investigation log sets corresponding to respective ones of the identified one or more representations in a user interface. The method is illustratively implemented in a machine learning system of a processing platform.",
+                "summary": "A method in one embodiment comprises extracting features from each of a plurality of software investigation log sets. The method is illustratively implemented in a machine learning system of a processing platform.",
+                "score": 70.70124123385176,
+                "pca_embedding": "[1.52953320533968, -0.07168911963602262, 0.47616517486249094, 0.7092990054607736, -0.08778807234481369]",
+                "tsne_embedding": "[47.33908462524414, -17.198591232299805]",
+                "cluster": "7"
+            },
+            {
+                "patent_date": "2020-10-27",
+                "patent_number": 10817314,
+                "patent_title": "Augmented shareable video files for robotic process automation",
+                "patent_abstract": "In one general aspect, in an embodiment, a method of performance-enhanced machine-learning model creation is performed by a computer system. The method includes receiving a command to record user interface (UI) activity in a computing environment. The method further includes, responsive to the command: receiving video frames of a live screen output of the computing environment; detecting UI events in the computing environment in relation to the video frames of the live screen output; and determining target applications for the UI events, wherein the target applications are executing in the computing environment. The method also includes generating UI metadata comprising information identifying the UI events and the target applications in relation to the video frames. In addition, the method includes sequentially encoding, in a video file, the video frames together with information sufficient to derive the UI metadata.",
+                "summary": "The method includes receiving a command to record user interface (UI) activity in a computing environment. The method also includes generating UI metadata comprising information identifying the UI events.",
+                "score": 72.80935994372703,
+                "pca_embedding": "[-0.8177113863119764, -0.8252987883558139, 0.27386277441547396, -0.13556511816643987, -1.2398619157191089]",
+                "tsne_embedding": "[-3.396458148956299, -25.970157623291016]",
+                "cluster": "0"
+            },
+            {
+                "patent_date": "2020-05-12",
+                "patent_number": 10650521,
+                "patent_title": "Classification by means of recordings",
+                "patent_abstract": "A method is for classifying an examination object by way of recordings. In an embodiment, the method includes capturing at least one optical recording of the examination object; determining and quantifying a number of defined characteristics of the examination object based upon an analysis of the optical recordings with the aid of a machine learning method; and affecting the classification of the examination object in respect of a classification criterion, based upon the quantified characteristics with the aid of a machine learning method. Also described are a classification entity and a medical imaging modality.",
+                "summary": "A method is for classifying an examination object by way of recordings. In an embodiment, the method includes capturing at least one optical recording of the examination object.",
+                "score": 73.03113649727311,
+                "pca_embedding": "[0.5721798330225827, -0.49328189822518226, 1.004497770233125, 1.3482898433574624, 0.44721012180076525]",
+                "tsne_embedding": "[24.866336822509766, -6.43913459777832]",
+                "cluster": "9"
+            },
+            {
+                "patent_date": "2020-06-02",
+                "patent_number": 10671892,
+                "patent_title": "Apparatuses, methods, and systems for 3-channel dynamic contextual script recognition using neural network image analytics and 4-tuple machine learning with enhanced templates and context data",
+                "patent_abstract": "In some embodiments, a method includes training a first machine learning model based on multiple documents and multiple templates associated with the multiple documents. The method further includes executing the first machine learning model to generate multiple relevancy masks, the multiple relevancy masks to remove a visual structure of the multiple templates from a visual structure of the multiple documents. The method further includes generating multiple multichannel field images to include the multiple relevancy masks and at least one of the multiple documents or the multiple templates. The method further includes training a second machine learning model based on the multiple multichannel field images and multiple non-native texts associated with the multiple documents. The method further includes executing the second machine learning model to generate multiple non-native texts from the multiple multichannel field images.",
+                "summary": "In some embodiments, a method includes training a first machine learning model based on multiple documents and multiple templates associated with the multiple documents. The method further includes executing the first machinelearning model to generate multiple relevancy masks, the multiple templates and multiple multichannel field images.",
+                "score": 74.78238373575732,
+                "pca_embedding": "[1.0432655965975062, 0.4655897047453956, 0.6365340043048555, 1.0031484620895892, 0.13181642638362492]",
+                "tsne_embedding": "[47.550987243652344, -16.401317596435547]",
+                "cluster": "0"
+            },
+            {
+                "patent_date": "2020-06-30",
+                "patent_number": 10699010,
+                "patent_title": "Methods and apparatus for analyzing sequences of application programming interface traffic to identify potential malicious actions",
+                "patent_abstract": "In some embodiments, a method includes receiving, at a processor of a server, a first application programming interface (API) call from a client device and providing an indication associated with the first API call as an input to a machine learning model such that the machine learning model identifies a set of parameters associated with a set of likely subsequent API calls. The method can further include receiving a second API call from the client device, identifying the second API call as an anomalous API call based on the second API call not meeting the set of parameters associated with the set of likely subsequent API calls, and sending a signal to perform a remedial action based on the identifying.",
+                "summary": "In some embodiments, a method includes receiving, at a processor of a server, a first application programming interface (API) call from a client device. The method can further include receiving a second API call from the client device, identifying the second APIcall as an anomalous API call.",
+                "score": 74.82740935077891,
+                "pca_embedding": "[1.2051298223883702, -0.3864939065557864, -0.18234173659676173, 1.0979956178701058, -0.27645614752935105]",
+                "tsne_embedding": "[45.7752571105957, -18.707075119018555]",
+                "cluster": "5"
+            }
+        ],
+        "matches_euc": [
+            {
+                "patent_date": "2020-06-16",
+                "patent_number": 10685292,
+                "patent_title": "Similarity-based retrieval of software investigation log sets for accelerated software deployment",
+                "patent_abstract": "A method in one embodiment comprises extracting features from each of a plurality of software investigation log sets, generating representations for respective ones of the software investigation log sets based at least in part on the corresponding extracted features, and storing the representations in a knowledge base. In conjunction with obtaining at least one additional software investigation log set, the method generates a representation of the additional software investigation log set, identifies one or more of the representations previously stored in the knowledge base that exhibit at least a specified similarity to the representation of the additional software investigation log set in accordance with one or more statistical models, and presents information characterizing the one or more software investigation log sets corresponding to respective ones of the identified one or more representations in a user interface. The method is illustratively implemented in a machine learning system of a processing platform.",
+                "summary": "A method in one embodiment comprises extracting features from each of a plurality of software investigation log sets. The method is illustratively implemented in a machine learning system of a processing platform.",
+                "score": 3.207130604190498,
+                "pca_embedding": "[1.52953320533968, -0.07168911963602262, 0.47616517486249094, 0.7092990054607736, -0.08778807234481369]",
+                "tsne_embedding": "[47.33908462524414, -17.198591232299805]",
+                "cluster": "7"
+            },
+            {
+                "patent_date": "2020-10-27",
+                "patent_number": 10817314,
+                "patent_title": "Augmented shareable video files for robotic process automation",
+                "patent_abstract": "In one general aspect, in an embodiment, a method of performance-enhanced machine-learning model creation is performed by a computer system. The method includes receiving a command to record user interface (UI) activity in a computing environment. The method further includes, responsive to the command: receiving video frames of a live screen output of the computing environment; detecting UI events in the computing environment in relation to the video frames of the live screen output; and determining target applications for the UI events, wherein the target applications are executing in the computing environment. The method also includes generating UI metadata comprising information identifying the UI events and the target applications in relation to the video frames. In addition, the method includes sequentially encoding, in a video file, the video frames together with information sufficient to derive the UI metadata.",
+                "summary": "The method includes receiving a command to record user interface (UI) activity in a computing environment. The method also includes generating UI metadata comprising information identifying the UI events.",
+                "score": 3.303502245839689,
+                "pca_embedding": "[-0.8177113863119764, -0.8252987883558139, 0.27386277441547396, -0.13556511816643987, -1.2398619157191089]",
+                "tsne_embedding": "[-3.396458148956299, -25.970157623291016]",
+                "cluster": "0"
+            },
+            {
+                "patent_date": "2020-05-12",
+                "patent_number": 10650521,
+                "patent_title": "Classification by means of recordings",
+                "patent_abstract": "A method is for classifying an examination object by way of recordings. In an embodiment, the method includes capturing at least one optical recording of the examination object; determining and quantifying a number of defined characteristics of the examination object based upon an analysis of the optical recordings with the aid of a machine learning method; and affecting the classification of the examination object in respect of a classification criterion, based upon the quantified characteristics with the aid of a machine learning method. Also described are a classification entity and a medical imaging modality.",
+                "summary": "A method is for classifying an examination object by way of recordings. In an embodiment, the method includes capturing at least one optical recording of the examination object.",
+                "score": 3.3324683726018534,
+                "pca_embedding": "[0.5721798330225827, -0.49328189822518226, 1.004497770233125, 1.3482898433574624, 0.44721012180076525]",
+                "tsne_embedding": "[24.866336822509766, -6.43913459777832]",
+                "cluster": "9"
+            },
+            {
+                "patent_date": "2020-06-30",
+                "patent_number": 10699010,
+                "patent_title": "Methods and apparatus for analyzing sequences of application programming interface traffic to identify potential malicious actions",
+                "patent_abstract": "In some embodiments, a method includes receiving, at a processor of a server, a first application programming interface (API) call from a client device and providing an indication associated with the first API call as an input to a machine learning model such that the machine learning model identifies a set of parameters associated with a set of likely subsequent API calls. The method can further include receiving a second API call from the client device, identifying the second API call as an anomalous API call based on the second API call not meeting the set of parameters associated with the set of likely subsequent API calls, and sending a signal to perform a remedial action based on the identifying.",
+                "summary": "In some embodiments, a method includes receiving, at a processor of a server, a first application programming interface (API) call from a client device. The method can further include receiving a second API call from the client device, identifying the second APIcall as an anomalous API call.",
+                "score": 3.3662694156732957,
+                "pca_embedding": "[1.2051298223883702, -0.3864939065557864, -0.18234173659676173, 1.0979956178701058, -0.27645614752935105]",
+                "tsne_embedding": "[45.7752571105957, -18.707075119018555]",
+                "cluster": "5"
+            },
+            {
+                "patent_date": "2019-03-05",
+                "patent_number": 10223586,
+                "patent_title": "Multi-modal electronic document classification",
+                "patent_abstract": "A method comprising operating at least one hardware processor for: receiving, as input, a plurality of electronic documents, training a machine learning classifier based, at least on part, on a training set comprising: (i) labels associated with the electronic documents, (ii) raw text from each of said plurality of electronic documents, and (iii) a rasterized version of each of said plurality of electronic documents, and applying said machine learning classifier to classify one or more new electronic documents.",
+                "summary": "A method comprising operating at least one hardware processor for: receiving, as input, a plurality of electronic documents, training a machine learning classifier, and applying said classifier to one or more new electronic documents.",
+                "score": 3.3747530213253087,
+                "pca_embedding": "[1.1279672397263938, -0.01741921009009263, 0.1813297688261191, -0.16771509765854895, -0.26557477564536647]",
+                "tsne_embedding": "[32.365211486816406, 7.501206874847412]",
+                "cluster": "7"
+            }
+        ]
+    }
+}
